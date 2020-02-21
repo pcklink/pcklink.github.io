@@ -3,8 +3,8 @@ layout: single
 author_profile: true
 ---
 
-# ARTICLES
-<ol reversed>
+## Articles
+<ul>
   <li>Milham M.P, Ai, L., Koo, B. (...), Klink, P.C., (...), Margulies D.S., & Schroeder, C.E. (2018)  An Open Resource for Non-human Primate Imaging, Neuron (2018), https://doi.org/10.1016/ j.neuron.2018.08.039
   </li>
   <li>Roelfsema, P.R., Denys, D., & Klink, P.C. (2018). Mind reading and writing: The future of neurotechnology. Trends in Cognitive Sciences,  2(7), 598–610. doi:10.1016/j.tics.2018.04.001. [link]
@@ -50,92 +50,77 @@ author_profile: true
   <li>Klink, P.C., Van Ee, R., Nijs, M.M., Brouwer, G.J., Noest, A.J., & van Wezel, R.J.A. (2008). Early interactions between neuronal adaptation and voluntary control determine perceptual choices in bistable vision. Journal of Vision, 8(5):16, 1-18. [link][pdf]
   </li>
   <li>Klink, P.C. (2008). Some spikes are more informative than others. Journal of Neuroscience, 28(19), 4844-4845. [link][pdf]
-</ol>
+  </li>  
+</ul>
 
 
-# BOOK CHAPTERS
-•Klink, P.C., Self, M.W., Lamme, V.A., & Roelfsema, P.R. (2015). Theories and methods in the scientific study of consciousness. The Constitution of Phenomenal Consciousness: Towards a Science and Theory, ed. S. Miller, Advances in Consciousness Research. John Benjamins Publishing Company. [pdf]
+## BOOK CHAPTERS
+<ul>
+  <li>Klink, P.C., Self, M.W., Lamme, V.A., & Roelfsema, P.R. (2015). Theories and methods in the scientific study of consciousness. The Constitution of Phenomenal Consciousness: Towards a Science and Theory, ed. S. Miller, Advances in Consciousness Research. John Benjamins Publishing Company. [pdf]
+  </li>
+  <li>Klink, P.C., van Wezel, R.J.A., & van Ee, R. (2014). The future of binocular rivalry research: Reaching through a window on consciousness. The Constitution of Visual Consciousness: Lessons from Binocular Rivalry, ed. S. Miller, Advances in Consciousness Research. John Benjamins Publishing Company. [pdf]
+  </li>
+</ul>
 
-•Klink, P.C., van Wezel, R.J.A., & van Ee, R. (2014). The future of binocular rivalry research: Reaching through a window on consciousness. The Constitution of Visual Consciousness: Lessons from Binocular Rivalry, ed. S. Miller, Advances in Consciousness Research. John Benjamins Publishing Company. [pdf]
+## PHD THESIS
+<ul>
+  <li>Klink, P.C. (2011). Neural mechanisms of context-driven conscious visual perception. [pdf]
+  </li>
+</ul>
 
+## SELECTED ABSTRACTS
+<ul>
+  <li>Klink, P.C., (2016) Top-down and bottom-up salience dynamically determine the precision of working memory encoding. Perception Day. Radboud University, Nijmegen.
+  </li>
+  <li>Klink, P.C., (2016) Reward and salience determine the precision of working memory encoding with different time-courses. Society for Neuroscience, Annual Meeting 2016.
+  </li>
+  <li>Klink, P.C., (2016) Top-down priorities and bottom-up salience compete in macaque visual cortex. Amsterdam Vision Meeting.
+  </li>
+  <li>Klink, P.C., Lorteije, J.A.M., van Vugt, B., & Roelfsema, P.R. (2015). Priority-related response modulations in macaque visual cortex. FENS Brain Conference 'Bridging Neural Mechanisms & Cognition'.
+  </li>
+  <li>Klink, P.C., Lorteije, J.A.M., van Vugt, B., & Roelfsema, P.R. (2015). Bottom-up and top-down priorities modulate responses in macaque visual cortex. Society for Neuroscience, Annual Meeting 2015. [poster pdf]
+  </li>
+  <li>De Graaf, T.A., van Ee, R., Croonenberg, D., Klink, P.C., & Sack, A.T. (2015) Disrupting binocular rivalry can lead to lasting visual suppression: psychophysics and computational modeling. Human Brain Mapping 2015.
+  </li>
+  <li>Arsenault, J.T., Rima, S., Klink, P.C., Stemmann, H., & Vanduffel, W. (submitted) Electrical microstimulation of the ventral tegmental area reinforces cue selection in monkeys. Society for Neuroscience, Annual Meeting 2013.
+  </li>
+  <li>Klink, P.C., Perceptual stabilization of ambiguous visual input: a synthesis of perception, computation and neurophysiology. ECVP 2012, Alghero, Italy.[slides pdf]
+  </li>
+  <li>Klink, P.C., Oleksiak, A., Postma, A., van der Ham, I.J.M., Lankheet, M.J.M., & van Wezel, R.J.A. (2011). A ‘matched filter’ mechanism of visual short-term memory in macaque parietal area 7a. Annual meeting of the Society for Neuroscience, Washington DC, USA. [poster pdf]
+  </li>
+  <li>Klink, P.C. (2011). Experience-driven plasticity in adult binocular vision. 9th Dutch EndoNeuroPsycho Meeting, Lunteren, the Netherlands.
+  </li>
+  <li>Klink, P.C., Lankheet, M.J.M., & van Wezel, R.J.A. (2011). Intermittent motion stimuli stabilize neuronal responses in area MT: Implications for the perceptual stabilization of visual ambiguities. Vision Science Society Annual Meeting, Naples FL, USA. [poster pdf]
+  </li>
+  <li>van Wezel, R.J.A., Lankheet, M.J.M., & Klink, P.C. (2010). The time-course of perceptual stabilization induces response stabilization in macaque area MT neurons. Society for Neuroscience, 74.12.
+  </li>
+  <li>Klink, P.C., Noest, A.J., & Lankheet, M.J.M. (2010). Spike-pair triggered averaging reveals a function for spike generation in neural coding. The Federation of European Neuroscience Societies Forum, Amsterdam, the Netherlands. [poster pdf]
+  </li>
+  <li>Klink, P.C., Brascamp, J.W., Blake, R., & Van Wezel, R.J.A. (2010). Plasticity of interocular inhibition with prolonged binocular rivalry. Vision Science Society Annual Meeting, Naples FL, USA. [slides pdf]
+  </li>
+  <li>Klink, P.C., Lankheet, M.J.M., & Van Wezel, R.J.A. (2009). The neural signature of stabilized ambiguous stucture-from-motion in macaque area MT. Society for Neuroscience, 558.19. [poster pdf]
+  </li>
+  <li>Klink, P.C. (2009). Perception of ambiguous figures in spatiotemporal context. 8th Dutch EndoNeuroPsycho Meeting, Doorwerth, the Netherlands. [slides pdf]
+  </li>
+  <li>Klink, P.C., Noest, A.J., & Van Wezel, R.J.A. (2009). Amodal spatial facilitation resolves local ambiguities of kinetic depth. Journal of Vision, 9(8):275, 275a. [link][poster pdf]
+  </li>
+  <li>Klink, P.C., & van Wezel, R.J.A. (2009). Area MT and the stabilized perception of bistable structure-from-motion. European Primate Neurobiology Meeting, Goettingen, Germany. [poster pdf]
+  </li>
+  <li>Klink, P.C., Van Ee, R., & Van Wezel, R.J.A. (2008). Levelt’s propositions generalized for bi-stable structure-from-motion: Common computational mechanisms of visual rivalry. Perception 37 ECVP Abstract Supplement, page 28. [link][poster pdf]
+  </li>
+  <li>Klink, P.C., Van Ee, R., Noest, A.J., & Van Wezel, R.J.A. (2007). Early interactions among perceptual history, stimulus timing and voluntary control determine perceptual decisions in bistable vision. Society for Neuroscience, 507.14.4. [poster pdf]
+  </li>
+  <li>Noest, A.J., Van Ee, R., Van Wezel, R.J.A., Klink, P.C., & Nijs, M.M. (2007). Bistable percept-choice dynamics explained by early interactions between stimulus timing, voluntary bias, and perceptual history. Perception 36 ECVP Abstract Supplement. [link]
+  </li>
+</ul>
 
+## Software/data
+<ul>
+  <li></li>
+</ul>
 
-
-
-
-
-PHD THESIS
-
-
-
-
-
-•Klink, P.C. (2011). Neural mechanisms of context-driven conscious visual perception. [pdf]
-
-
-
-
-
-
-
-SELECTED ABSTRACTS
-
-
-
-
-
-•Klink, P.C., (2016) Top-down and bottom-up salience dynamically determine the precision of working memory encoding. Perception Day. Radboud University, Nijmegen.
-
-•Klink, P.C., (2016) Reward and salience determine the precision of working memory encoding with different time-courses. Society for Neuroscience, Annual Meeting 2016.
-
-•Klink, P.C., (2016) Top-down priorities and bottom-up salience compete in macaque visual cortex. Amsterdam Vision Meeting.
-
-•Klink, P.C., Lorteije, J.A.M., van Vugt, B., & Roelfsema, P.R. (2015). Priority-related response modulations in macaque visual cortex. FENS Brain Conference 'Bridging Neural Mechanisms & Cognition'.
-
-•Klink, P.C., Lorteije, J.A.M., van Vugt, B., & Roelfsema, P.R. (2015). Bottom-up and top-down priorities modulate responses in macaque visual cortex. Society for Neuroscience, Annual Meeting 2015. [poster pdf]
-
-•De Graaf, T.A., van Ee, R., Croonenberg, D., Klink, P.C., & Sack, A.T. (2015) Disrupting binocular rivalry can lead to lasting visual suppression: psychophysics and computational modeling. Human Brain Mapping 2015.
-
-•Arsenault, J.T., Rima, S., Klink, P.C., Stemmann, H., & Vanduffel, W. (submitted) Electrical microstimulation of the ventral tegmental area reinforces cue selection in monkeys. Society for Neuroscience, Annual Meeting 2013.
-
-•Klink, P.C., Perceptual stabilization of ambiguous visual input: a synthesis of perception, computation and neurophysiology. ECVP 2012, Alghero, Italy.[slides pdf]
-
-•Klink, P.C., Oleksiak, A., Postma, A., van der Ham, I.J.M., Lankheet, M.J.M., & van Wezel, R.J.A. (2011). A ‘matched filter’ mechanism of visual short-term memory in macaque parietal area 7a. Annual meeting of the Society for Neuroscience, Washington DC, USA. [poster pdf]
-
-•Klink, P.C. (2011). Experience-driven plasticity in adult binocular vision. 9th Dutch EndoNeuroPsycho Meeting, Lunteren, the Netherlands.
-
-•Klink, P.C., Lankheet, M.J.M., & van Wezel, R.J.A. (2011). Intermittent motion stimuli stabilize neuronal responses in area MT: Implications for the perceptual stabilization of visual ambiguities. Vision Science Society Annual Meeting, Naples FL, USA. [poster pdf]
-
-•van Wezel, R.J.A., Lankheet, M.J.M., & Klink, P.C. (2010). The time-course of perceptual stabilization induces response stabilization in macaque area MT neurons. Society for Neuroscience, 74.12.
-
-•Klink, P.C., Noest, A.J., & Lankheet, M.J.M. (2010). Spike-pair triggered averaging reveals a function for spike generation in neural coding. The Federation of European Neuroscience Societies Forum, Amsterdam, the Netherlands. [poster pdf]
-
-•Klink, P.C., Brascamp, J.W., Blake, R., & Van Wezel, R.J.A. (2010). Plasticity of interocular inhibition with prolonged binocular rivalry. Vision Science Society Annual Meeting, Naples FL, USA. [slides pdf]
-
-•Klink, P.C., Lankheet, M.J.M., & Van Wezel, R.J.A. (2009). The neural signature of stabilized ambiguous stucture-from-motion in macaque area MT. Society for Neuroscience, 558.19. [poster pdf]
-
-•Klink, P.C. (2009). Perception of ambiguous figures in spatiotemporal context. 8th Dutch EndoNeuroPsycho Meeting, Doorwerth, the Netherlands. [slides pdf]
-
-•Klink, P.C., Noest, A.J., & Van Wezel, R.J.A. (2009). Amodal spatial facilitation resolves local ambiguities of kinetic depth. Journal of Vision, 9(8):275, 275a. [link][poster pdf]
-
-•Klink, P.C., & van Wezel, R.J.A. (2009). Area MT and the stabilized perception of bistable structure-from-motion. European Primate Neurobiology Meeting, Goettingen, Germany. [poster pdf]
-
-•Klink, P.C., Van Ee, R., & Van Wezel, R.J.A. (2008). Levelt’s propositions generalized for bi-stable structure-from-motion: Common computational mechanisms of visual rivalry. Perception 37 ECVP Abstract Supplement, page 28. [link][poster pdf]
-
-•Klink, P.C., Van Ee, R., Noest, A.J., & Van Wezel, R.J.A. (2007). Early interactions among perceptual history, stimulus timing and voluntary control determine perceptual decisions in bistable vision. Society for Neuroscience, 507.14.4. [poster pdf]
-
-•Noest, A.J., Van Ee, R., Van Wezel, R.J.A., Klink, P.C., & Nijs, M.M. (2007). Bistable percept-choice dynamics explained by early interactions between stimulus timing, voluntary bias, and perceptual history. Perception 36 ECVP Abstract Supplement. [link]
-
-
-
-
-
-
-
-OTHER
-
-
-
-
-
-•Klink, P.C. (2007). Attention vs. Contrast for the Single Neuron: Does the analogy hold? Journal of Neuroscience, eLetter. [link]
+## Other
+<ul>
+  <li>Klink, P.C. (2007). Attention vs. Contrast for the Single Neuron: Does the analogy hold? Journal of Neuroscience, eLetter. [link]
+  </li>
+</ul>
