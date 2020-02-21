@@ -140,11 +140,12 @@ author:
 
 # Sidebar
 sidebar:
-  - image: "/assets/images/NIN.png" http://placehold.it/350x250
+  - image: "/assets/images/NIN.png" # http://placehold.it/350x250
     image_alt: "NIN"
-    text: "Some text here."
-  - title: ""
-    text: "More text here."
+  - image: "/assets/images/SC.jpg" # http://placehold.it/350x250
+    image_alt: "SC"
+  - image: "/assets/images/PRIME-DE.png" # http://placehold.it/350x250
+    image_alt: "PRIME-DE"
 
 # Site Footer
 footer:
