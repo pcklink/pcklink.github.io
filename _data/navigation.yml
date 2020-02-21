@@ -1,12 +1,10 @@
 # main links
 main:
-  #- title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  #- title: "Research"
-  #   url: https://pcklink.github.io/research
-  #- title: "Publications"
-  #   url: https://pcklink.github.io/publications
-  #- title: "CV"
-  #   url: https://pcklink.github.io/cv
-  # - title: "Sitemap"
-  #   url: /sitemap/
+   - title: "Research"
+     url: research
+   - title: "Publications"
+     url: publications
+   - title: "CV"
+     url: cv
+   #- title: "Sitemap"
+   #  url: /sitemap/
