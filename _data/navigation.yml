@@ -1,7 +1,9 @@
 # main links
 main:
-   - title: "News"
+   - title: "Home"
      url: index
+   - title: "News"
+     url: news
    - title: "Research"
      url: research
    - title: "Publications"
