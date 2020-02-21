@@ -6,7 +6,11 @@ main:
      url: research
    - title: "Publications"
      url: publications
+   - title: "Resources"
+     url: resources
    - title: "CV"
      url: cv
+   - title: "Photos"
+     url: "https://www.flickr.com/photos/chrisklink/albums/"
    #- title: "Sitemap"
    #  url: /sitemap/
