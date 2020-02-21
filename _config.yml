@@ -137,7 +137,15 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    
+
+# Sidebar
+sidebar:
+  - image: "/assets/images/NIN.png" http://placehold.it/350x250
+    image_alt: "NIN"
+    text: "Some text here."
+  - title: ""
+    text: "More text here."
+
 # Site Footer
 footer:
   links:
