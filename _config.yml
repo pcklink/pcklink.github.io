@@ -119,7 +119,7 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Google Scholar"
+    - label: "Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "hhttps://scholar.google.com/citations?user=BcxcKT4AAAAJ&hl=en"
     - label: "LinkedIn"
