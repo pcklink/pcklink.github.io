@@ -139,13 +139,13 @@ author:
       # url: "https://instagram.com/"
 
 # Sidebar
-sidebar:
-  - image: "/assets/images/NIN.png" # http://placehold.it/350x250
-    image_alt: "NIN"
-  - image: "/assets/images/SC.jpg" # http://placehold.it/350x250
-    image_alt: "SC"
-  - image: "/assets/images/PRIME-DE.png" # http://placehold.it/350x250
-    image_alt: "PRIME-DE"
+#sidebar:
+  #- image: "/assets/images/NIN.png" # http://placehold.it/350x250
+  #  image_alt: "NIN"
+  #- image: "/assets/images/SC.jpg" # http://placehold.it/350x250
+  #  image_alt: "SC"
+  #- image: "/assets/images/PRIME-DE.png" # http://placehold.it/350x250
+  #  image_alt: "PRIME-DE"
 
 # Site Footer
 footer:
