@@ -154,7 +154,7 @@ footer:
       icon: "fas fa-fw fa-graduation-cap"
       url: "hhttps://scholar.google.com/citations?user=BcxcKT4AAAAJ&hl=en"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/chrisklink/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
