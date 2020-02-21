@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 ---
 
+# Publications
 ## Articles
 <ul>
   <li>Milham M.P, Ai, L., Koo, B. (...), Klink, P.C., (...), Margulies D.S., & Schroeder, C.E. (2018)  An Open Resource for Non-human Primate Imaging, Neuron (2018), https://doi.org/10.1016/ j.neuron.2018.08.039
