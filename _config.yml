@@ -153,7 +153,7 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Google Scholar"
+    - label: "Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "hhttps://scholar.google.com/citations?user=BcxcKT4AAAAJ&hl=en"
     - label: "LinkedIn"
