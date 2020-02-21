@@ -2,11 +2,11 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  #- title: "Research"
-  #   url: /research.html
+  - title: "Research"
+     url: https://pcklink.github.io/research
   #- title: "Publications"
-  #   url: /publications.html
+  #   url: https://pcklink.github.io/publications
   #- title: "CV"
-  #   url: /cv.html
+  #   url: https://pcklink.github.io/cv
   # - title: "Sitemap"
   #   url: /sitemap/
