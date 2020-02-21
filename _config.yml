@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Chris Klink, PhD"
 title_separator          : "|"
-subtitle                 : Cognitive Neuroscience / Neuroimaging / Brain Stimulation
+subtitle                 : "Cognitive Neuroscience / Neuroimaging / Brain Stimulation"
 name                     : "Chris Klink"
 description              : "Personal website"
 url                      : "https://pcklink.github.io/"
@@ -143,9 +143,9 @@ author:
       # url: "https://instagram.com/"
 
 # Sidebar
-#sidebar:
-  #- image: "/assets/images/NIN.png" # http://placehold.it/350x250
-  #  image_alt: "NIN"
+sidebar:
+  - image: "/assets/images/NIN.png" # http://placehold.it/350x250
+    image_alt: "NIN"
   #- image: "/assets/images/SC.jpg" # http://placehold.it/350x250
   #  image_alt: "SC"
   #- image: "/assets/images/PRIME-DE.png" # http://placehold.it/350x250
