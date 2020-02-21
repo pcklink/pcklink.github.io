@@ -54,7 +54,7 @@ author_profile: true
 </ul>
 
 
-## BOOK CHAPTERS
+## Book chapters
 <ul>
   <li>Klink, P.C., Self, M.W., Lamme, V.A., & Roelfsema, P.R. (2015). Theories and methods in the scientific study of consciousness. The Constitution of Phenomenal Consciousness: Towards a Science and Theory, ed. S. Miller, Advances in Consciousness Research. John Benjamins Publishing Company. [pdf]
   </li>
@@ -62,13 +62,13 @@ author_profile: true
   </li>
 </ul>
 
-## PHD THESIS
+## PHD thesis
 <ul>
   <li>Klink, P.C. (2011). Neural mechanisms of context-driven conscious visual perception. [pdf]
   </li>
 </ul>
 
-## SELECTED ABSTRACTS
+## Selected abstracts
 <ul>
   <li>Klink, P.C., (2016) Top-down and bottom-up salience dynamically determine the precision of working memory encoding. Perception Day. Radboud University, Nijmegen.
   </li>
