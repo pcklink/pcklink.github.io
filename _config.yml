@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Chris Klink, PhD"
   avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
+  bio              : "Neuroscientist with an interest in the neural mechanisms of perception and cognition. How does the brain process information to create flexible, goal-directed behavior? How can we restore/improve these processes?"
   location         : "Amsterdam, The Netherlands"
   email            : # "c.klink@nin.knaw.nl"
   links:
@@ -145,7 +145,7 @@ footer:
       icon: "fas fa-fw fa-graduation-cap"
       url: "hhttps://scholar.google.com/citations?user=BcxcKT4AAAAJ&hl=en"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fas fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/chrisklink/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
