@@ -7,7 +7,7 @@ author_profile: true
 
 ## Articles
 <p><ul>
-  <lil>PRIME-DE Consortium* (2020). Accelerating the Evolution of Nonhuman Primate Neuroimaging. Neuron 105(4), 600-603. *Inc. Klink, P.C.
+  <li>PRIME-DE Consortium* (2020). Accelerating the Evolution of Nonhuman Primate Neuroimaging. Neuron 105(4), 600-603. *Inc. Klink, P.C.
     </li>
   <li>Milham M.P, Ai, L., Koo, B. (...), Klink, P.C., (...), Margulies D.S., & Schroeder, C.E. (2018)  An Open Resource for Non-human Primate Imaging, Neuron (2018), https://doi.org/10.1016/ j.neuron.2018.08.039
   </li>
@@ -66,7 +66,7 @@ author_profile: true
   </li>
 </ul>
 
-## PHD thesis
+## PhD thesis
 <ul>
   <li>Klink, P.C. (2011). Neural mechanisms of context-driven conscious visual perception. 
   </li>
