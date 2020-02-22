@@ -8,7 +8,7 @@
 
 .sidebar {
   @include clearfix();
-  @include breakpoint(max-width $small) {
+  @include breakpoint(max-width $medium) {
     /* fix z-index order of follow links */
     position: relative;
     z-index: 10;
@@ -137,13 +137,13 @@
 }
 
 .splash .sidebar__right {
-  @include breakpoint($small) {
+  @include breakpoint($medium) {
     position: relative;
     float: right;
     margin-right: 0;
   }
 
-  @include breakpoint($medium) {
+  @include breakpoint($large) {
     margin-right: 0;
   }
 }
