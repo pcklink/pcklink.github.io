@@ -36,6 +36,26 @@
     }
   }
 
+  @include breakpoint($medium) {
+    float: left;
+    width: calc(#{$right-sidebar-width-narrow} - 1em);
+    opacity: 0.75;
+    -webkit-transition: opacity 0.2s ease-in-out;
+    transition: opacity 0.2s ease-in-out;
+
+    &:hover {
+      opacity: 1;
+    }
+
+    &.sticky {
+      overflow-y: auto;
+      /* calculate height of nav list
+         viewport height - nav height - masthead x-padding
+      */
+      height: calc(100vh - #{$nav-height} - 2em);
+    }
+  }
+
   @include breakpoint($x-large) {
     width: calc(#{$right-sidebar-width} - 1em);
   }
