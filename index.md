@@ -13,7 +13,7 @@ header:
 bla.
 
 ### Contact   
-<a href="https://nin.nl/"><img alt="NIN" src="/assets/images/NIN.png" height="80" align="right"></a> 
+<a href="https://nin.nl/"><img alt="NIN" src="/assets/images/NIN.png" height="80" align="left"></a> 
 Dr. Chris Klink     
 [Vision & Cognition](https://nin.nl/research/researchgroups/roelfsema-group/) / [Neuromodulation & Behaviour](https://nin.nl/research/researchgroups/willuhn-group/)       
 [Netherlands Institute for Neuroscience](http://www.nin.knaw.nl/)      
@@ -23,6 +23,7 @@ Meibergdreef 47
 1105 BA Amsterdam      
 the Netherlands      
 
+<!--
 <table style="width:100%">
   <tr>
     <th align="left">Contact</th>
@@ -46,3 +47,4 @@ the Netherlands
     <td></td>
   </tr>
 </table>
+-->
