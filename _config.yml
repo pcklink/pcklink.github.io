@@ -110,8 +110,8 @@ author:
   name             : "Chris Klink, PhD"
   avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   # bio              : "Neuroscientist interested in the neural mechanisms of perception and cognition. How does the brain process information to create flexible, goal-directed behavior? How can we restore and improve these processes?"
-  bio              : "Neth. Inst. for Neuroscience"
-  location         : "Amsterdam, NL"
+  bio              : "----------------"#"Neth. Inst. for Neuroscience"
+  location         : # "Amsterdam, NL"
   email            : # "c.klink@nin.knaw.nl"
   links:
     - label: "Email"
