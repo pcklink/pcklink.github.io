@@ -21,6 +21,8 @@ the Netherlands Organization for Scientific Research
 
 ---
 
+---
+<br>
 I have previously worked on, and remain interested in, some of the topics that are summarized below.
 
 ## Motion     
