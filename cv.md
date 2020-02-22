@@ -10,7 +10,7 @@ author_profile: true
  A short resume can be found <a href="/cv/Klink_Resume.pdf">here</a>
 </small>
 
-### Contact
+## Contact
 Vision & Cognition / Neuromodulation & Behaviour     
 Netherlands Institute for Neuroscience       
 Royal Netherlands Academy of Arts and Sciences
