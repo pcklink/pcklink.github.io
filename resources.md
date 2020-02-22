@@ -22,6 +22,6 @@ author_profile: true
 <br>
 <br>
 <div style="padding:10px;">
-    <a href="http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html"><img alt="prime-de" src="/assets/images/prime-de.png" height="200px" align="left" style="vertical-align:middle"></a>
-    <a href="https://prime-re.github.io/"><img alt="prime-re" src="/assets/images/prime-re.png" height="200px" align="right" style="vertical-align:middle"></a>
+    <a href="http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html"><img alt="prime-de" src="/assets/images/prime-de.png" height="200px" align="left" margin-left="50px" style="vertical-align:middle"></a>
+    <a href="https://prime-re.github.io/"><img alt="prime-re" src="/assets/images/prime-re.png" height="200px" margin-right="50px" align="right" style="vertical-align:middle"></a>
 </div>
