@@ -7,7 +7,7 @@ author_profile: true
 
 ## Articles
 <p><ul>
-  <li>PRIME-DE Consortium* (2020). Accelerating the Evolution of Nonhuman Primate Neuroimaging. <i>Neuron</i> 105(4), 600-603. *Inc. <b>Klink, P.C. <a href="/pdfs/Consortium_2020_Neuron.pdf">pdf</a></b>
+  <li>PRIME-DE Consortium* (2020). Accelerating the Evolution of Nonhuman Primate Neuroimaging. <i>Neuron</i> 105(4), 600-603. *Inc. <b>Klink, P.C.</b> <a href="/pdfs/Consortium_2020_Neuron.pdf">pdf</a>
     </li>
   <li>Milham M.P, Ai, L., Koo, B. (...), <b>Klink, P.C.</b>, (...), Margulies D.S., & Schroeder, C.E. (2018)  An Open Resource for Non-human Primate Imaging, <i>Neuron</i> (2018), https://doi.org/10.1016/ j.neuron.2018.08.039 <a href="/pdfs/Milham_2018_Neuron.pdf">pdf</a>
   </li>
