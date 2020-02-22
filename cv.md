@@ -5,8 +5,8 @@ layout: single
 author_profile: true
 ---
 
-A pdf-version of my complete CV is available here          
-A short resume can be found here
+A pdf-version of my complete CV is available [here](/cv/Klink_CV.pdf)          
+A short resume can be found [here](/cv/Klink_Resume.pdf)
 
 ### Contact
 Vision & Cognition / Neuromodulation & Behaviour     
