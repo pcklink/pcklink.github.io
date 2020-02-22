@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 <small>
-A pdf-version of my complete CV is available [here](/cv/Klink_CV.pdf)          
-A short resume can be found [here](/cv/Klink_Resume.pdf)
+ A pdf-version of my complete CV is available <a href="/cv/Klink_CV.pdf">here</a>         
+ A short resume can be found <a href="/cv/Klink_Resume.pdf">here</a>
 </small>
 
 ### Contact
