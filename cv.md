@@ -9,7 +9,7 @@ A pdf-version of my complete CV is available here
 A short resume can be found here
 
 ### Contact
-Neuromodulation & Behaviour / Vision & Cognition      
+Vision & Cognition / Neuromodulation & Behaviour     
 Netherlands Institute for Neuroscience       
 Royal Netherlands Academy of Arts and Sciences
 
