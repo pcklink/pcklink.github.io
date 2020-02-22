@@ -19,11 +19,6 @@ electrical pulses into the brain that interfere with neural signaling. Whereas, 
 precise local and global effects of stimulation are relatively unknown. This research was launched with support of a VENI-grant from 
 the Netherlands Organization for Scientific Research
 
----
-
-<br>
-<i>I have previously worked on, and remain interested in, some of the topics that are summarized below.</i>
-
 ## Visual awareness & attention
 <img alt="Impossible figure" src="/assets/images/CubeVector.png" style="float:left;width:150px;margin-right:10px;marg-bottom:10px">The vast amount of visual information that surrounds us every day is an important determinant of our behavior and emotions. Due to the surplus of visual information our brain needs to select information and use standard ‘tricks’ to interpret a retinal pattern fast and accurate. Seeing is therefore much more a matter of brains than of eyes. But how does our visual system pick up the relevant aspects of the visual world and what happens in our brain before we become aware of the things we see? One of my longtime research interests deals with these questions using a range of methodological approaches and stimuli.
 
