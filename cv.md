@@ -1,6 +1,6 @@
 ---
 permalink: /cv/
-title: "Curriculum Vitaev"
+title: "Curriculum Vitae"
 layout: single
 author_profile: true
 ---
