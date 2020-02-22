@@ -16,7 +16,7 @@
     transform: translate3d(0, 0, 0);
   }
 
-  @include breakpoint($small) {
+  @include breakpoint($min-width) {
     float: left;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
     opacity: 0.75;
