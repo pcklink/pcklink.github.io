@@ -74,7 +74,7 @@
 .sidebar__right {
   margin-bottom: 1em;
 
-  @include breakpoint($x-small) {
+  @include breakpoint($min-width) {
     position: absolute;
     top: 0;
     right: 0;
