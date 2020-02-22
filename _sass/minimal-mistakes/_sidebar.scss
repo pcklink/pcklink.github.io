@@ -8,7 +8,7 @@
 
 .sidebar {
   @include clearfix();
-  @include breakpoint(max-width $medium) {
+  @include breakpoint(max-width $small) {
     /* fix z-index order of follow links */
     position: relative;
     z-index: 10;
@@ -16,7 +16,7 @@
     transform: translate3d(0, 0, 0);
   }
 
-  @include breakpoint($medium) {
+  @include breakpoint($small) {
     float: left;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
     opacity: 0.75;
@@ -74,7 +74,25 @@
 .sidebar__right {
   margin-bottom: 1em;
 
-  @include breakpoint($large) {
+  @include breakpoint($small) {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: $right-sidebar-width-x-narrow;
+    margin-right: -1 * $right-sidebar-width-x-narrow;
+    padding-left: 1em;
+    z-index: 10;
+
+    &.sticky {
+      @include clearfix();
+      position: -webkit-sticky;
+      position: sticky;
+      top: 2em;
+      float: right;
+    }
+  }
+   
+  @include breakpoint($medium) {
     position: absolute;
     top: 0;
     right: 0;
