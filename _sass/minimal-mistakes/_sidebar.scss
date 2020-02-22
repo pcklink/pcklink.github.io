@@ -197,7 +197,8 @@
 
 .author__name {
   margin: 0;
-
+  font-size: $type-size-3;
+   
   @include breakpoint($medium) {
     margin-top: 10px;
     margin-bottom: 10px;
