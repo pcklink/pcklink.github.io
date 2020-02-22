@@ -9,13 +9,13 @@ A pdf-version of my complete CV is available here
 A short resume can be found here
 
 ### Contact
-Neuromodulation & Behaviour / Vision & Cognition
-Netherlands Institute for Neuroscience
+Neuromodulation & Behaviour / Vision & Cognition      
+Netherlands Institute for Neuroscience       
 Royal Netherlands Academy of Arts and Sciences
 
-Meibergdreef 47
-1105 BA Amsterdam, the Netherlands
-email: C.Klink [at] nin.knaw.nl
+Meibergdreef 47      
+1105 BA Amsterdam, the Netherlands       
+email: c.klink [at] nin.knaw.nl       
 
 
 ## Research interests
@@ -35,7 +35,7 @@ recordings in non-human primates to investigate the dynamic neural networks unde
  <li>Postdoctoral fellow Psychopharmacology Utrecht University</li>
  <li>PhD (Cum Laude) in Functional Neurobiology Utrecht University</li>
  <li>MSc (Cum Laude) in Cognitive, Experimental & Clinical Neuroscience, Utrecht University</li>
- <li>BSc in Biology at Utrecht University.<li>
+ <li>BSc in Biology at Utrecht University.</li>
 </ul>
 
 ## Memberships
