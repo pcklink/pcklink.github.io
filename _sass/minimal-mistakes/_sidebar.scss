@@ -16,7 +16,7 @@
     transform: translate3d(0, 0, 0);
   }
 
-  @include breakpoint($small) {
+  @include breakpoint($medium) {
     float: left;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
     opacity: 0.75;
@@ -74,7 +74,7 @@
 .sidebar__right {
   margin-bottom: 1em;
 
-  @include breakpoint($small) {
+  @include breakpoint($medium) {
     position: absolute;
     top: 0;
     right: 0;
@@ -92,20 +92,20 @@
     }
   }
 
-  @include breakpoint($medium) {
+  @include breakpoint($large) {
     width: $right-sidebar-width;
     margin-right: -1 * $right-sidebar-width;
   }
 }
 
 .splash .sidebar__right {
-  @include breakpoint($small) {
+  @include breakpoint($medium) {
     position: relative;
     float: right;
     margin-right: 0;
   }
 
-  @include breakpoint($medium) {
+  @include breakpoint($large) {
     margin-right: 0;
   }
 }
