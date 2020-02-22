@@ -13,7 +13,6 @@ header:
 bla.
 
 ### Contact   
-<a href="https://nin.nl/"><img alt="NIN" src="/assets/images/NIN.png" height="80" align="left"></a> 
 Dr. Chris Klink     
 [Vision & Cognition](https://nin.nl/research/researchgroups/roelfsema-group/) / [Neuromodulation & Behaviour](https://nin.nl/research/researchgroups/willuhn-group/)       
 [Netherlands Institute for Neuroscience](http://www.nin.knaw.nl/)      
@@ -22,6 +21,8 @@ Royal Netherlands Academy of Arts and Sciences
 Meibergdreef 47       
 1105 BA Amsterdam      
 the Netherlands      
+
+<a href="https://nin.nl/"><img alt="NIN" src="/assets/images/NIN.png" height="80" align="left"></a> 
 
 <!--
 <table style="width:100%">
