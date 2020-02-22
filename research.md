@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Translational neuroimaging & brain stimulation     
-<img alt="BrainMorph" src="/assets/images/brainmorph.gif" style="float:left;width:100px;margin-right:10px;marg-bottom:10px">
+<img alt="BrainMorph" src="/assets/images/brainmorph.gif" style="float:left;width:150px;margin-right:10px;marg-bottom:10px">
 In recent years, I have established the Translational Neuroimaging lab within the Vision & Cognition group (Prof. Roelfsema) 
 and in collaboration with the Neuromodulation & Behaviour group of (Prof. Denys, Dr. Willuhn) at the Netherlands Institute 
 for Neuroscience in Amsterdam. Here, we aim to map the functional neural networks that drive cognitive functions and 
