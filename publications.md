@@ -116,11 +116,6 @@ author_profile: true
   </li>
 </ul>
 
-## Software/data
-<ul>
-  <li></li>
-</ul>
-
 ## Other
 <ul>
   <li>Klink, P.C. (2007). Attention vs. Contrast for the Single Neuron: Does the analogy hold? Journal of Neuroscience, eLetter. [link]
