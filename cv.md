@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-A pdf-version of my complete CV is available here
+A pdf-version of my complete CV is available here          
 A short resume can be found here
 
 ### Contact
