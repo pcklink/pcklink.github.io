@@ -18,3 +18,10 @@ author_profile: true
   <li><b>PRIME-DE</b> is a platform for the sharing of NHP neuroimaging data. The future is collaborative! Find it <a href="http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html">here</a>.</li>   
   <li><b>RheMAP</b> is a package on non-linear registrations across a set of common rhesus macaque brain templates. Code is available <a href="https://github.com/PRIME-RE/RheMAP">GitHub</a>, warp-files on <a href="https://zenodo.org/record/3668510#.XlG2oJNKgnc">Zenodo</a>. <a href="https://doi.org/10.5281/zenodo.3668510"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3668510.svg" alt="DOI"></a></li> 
 </ul>
+
+<br>
+<br>
+<div style="padding:10px;">
+    <a href="http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html"><img alt="prime-de" src="/assets/images/prime-de.png" height="200px" align="left" style="vertical-align:middle"></a>
+    <a href="https://prime-re.github.io/"><img alt="prime-re" src="/assets/images/prime-re.png" height="200px" align="right" style="vertical-align:middle"></a>
+</div>
