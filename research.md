@@ -6,17 +6,17 @@ author_profile: true
 ---
 
 ## Translational neuroimaging & brain stimulation     
-In recent years, I have established the Translational Neuroimaging lab within the Vision & Cognition group of Prof. Pieter Roelfsema 
-and in collaboration with the Neuromodulation & Behaviour group of Prof. Damiaan Denys and Dr. Ingo Willuhn at the Netherlands Institute 
-for Neuroscience (NIN/KNAW) and the Department of Psychiatry at the Amsterdam University Medical Center. Here, we aim to map the 
-functional neural networks that drive cognitive functions and investigate how brain stimulation techniques, like Deep Brain Stimulation 
-can affect these complex neural neural systems and influence behaviour.     
+<img alt="BrainMorph" src="/assets/images/brainmorph.gif" style="float:left;width:100px;margin-right:10px;marg-bottom:10px">
+In recent years, I have established the Translational Neuroimaging lab within the Vision & Cognition group (Prof. Roelfsema) 
+and in collaboration with the Neuromodulation & Behaviour group of (Prof. Denys, Dr. Willuhn) at the Netherlands Institute 
+for Neuroscience in Amsterdam. Here, we aim to map the functional neural networks that drive cognitive functions and 
+investigate how brain stimulation techniques, like deep brain stimulation can affect these complex neural neural systems and influence behaviour.     
 
 Deep brains stimulation of striatal brain areas is a psychiatric treatment option that targets the brain’s reward and motivation circuits. 
 It is used at the Amsterdam UMC and several other centers around the world to treat psychiatric disorders like depression and OCD. 
 In Deep Brain Stimulation, a stimulation electrode is chronically implanted in the patient’s brain. Batteries that are implanted send 
 electrical pulses into the brain that interfere with neural signaling. Whereas, the results of these treatments can be remarkable, the 
-precise local and global effects of stimulation are relatively unknown. This research was launched with support from a VENI-grant from 
+precise local and global effects of stimulation are relatively unknown. This research was launched with support of a VENI-grant from 
 the Netherlands Organization for Scientific Research
 
 ---
