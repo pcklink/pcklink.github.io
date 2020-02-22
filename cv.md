@@ -5,8 +5,10 @@ layout: single
 author_profile: true
 ---
 
+<small>
 A pdf-version of my complete CV is available [here](/cv/Klink_CV.pdf)          
 A short resume can be found [here](/cv/Klink_Resume.pdf)
+</small>
 
 ### Contact
 Vision & Cognition / Neuromodulation & Behaviour     
@@ -47,9 +49,4 @@ recordings in non-human primates to investigate the dynamic neural networks unde
  <li>Vision Science Society</li>
  <li>Amsterdam Brain & Cognition</li>
 </ul>
- 
-
-
-
- 
  
