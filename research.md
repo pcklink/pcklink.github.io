@@ -21,9 +21,8 @@ the Netherlands Organization for Scientific Research
 
 ---
 
----
 <br>
-I have previously worked on, and remain interested in, some of the topics that are summarized below.
+<i>I have previously worked on, and remain interested in, some of the topics that are summarized below.</i>
 
 ## Motion     
 Vision is hardly ever stationary. Imagine yourself cycling through traffic (a typical dutch situation). The traffic is moving around you, you are moving yourself and your eyes as well as your head are moving. Somehow, most of us survive this multi-component motion situation and perception remains remarkably stable. Motion can also be very informative about 3d-shape from 2d-displays (structure-from-motion). Here two things that are classically thought to be represented in different parts of the brain (‘what’ and ‘where’) somehow strongly interact. Understanding motion perception is crucial for understanding visual perception in general.
