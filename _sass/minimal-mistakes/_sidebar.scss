@@ -16,9 +16,9 @@
     transform: translate3d(0, 0, 0);
   }
 
-  @include breakpoint($min-width) {
+  @include breakpoint($small) {
     float: left;
-    width: calc(#{$right-sidebar-width-narrow} - 1em);
+    width: calc(#{$right-sidebar-width-x-narrow} - 1em);
     opacity: 0.75;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
