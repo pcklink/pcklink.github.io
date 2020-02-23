@@ -8,7 +8,7 @@ header:
   #overlay_filter: 0.25 
   caption: "Photo: Chris Klink"
 ---
-<body>
+
 <div style="background-color:Black;color:WhiteSmoke;padding:10px;">
   <h1>News</h1>
 </div>
@@ -51,11 +51,10 @@ header:
 <br>
 
 <div style="padding:10px;">
-  <a href="https://nin.nl/"><img alt="NIN" src="/assets/images/NIN.png "style="width:150px; display: block;margin-left: auto;margin-right: auto; margin-bottom:20px"></a>
+  <a href="https://nin.nl/"><img alt="NIN" src="/assets/images/NIN.png "style="width:200px; display: block;margin-left: auto;margin-right: auto; margin-bottom:20px"></a>
   <p align="center">
       <b>Dr. Chris Klink</b><br>
       Netherlands Institute for Neuroscience<br>
       Meibergdreef 47, 1105 BA Amsterdam, the Netherlands
   </p>
 </div>
-</body>
