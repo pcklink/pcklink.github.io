@@ -23,6 +23,6 @@ author_profile: true
 <br>
 
 <div style="padding:10px;">
-    <a href="http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html"><img alt="prime-de" src="/assets/images/PRIME-DE.png" height="150px" style="float: left; width: 50%; margin-left: 10%; margin-right: 10%; margin-bottom: 0.5em;"></a>
-    <a href="https://prime-re.github.io/"><img alt="prime-re" src="/assets/images/prime-re.png" height="150px" style="float: right; width: 50%; margin-left: 25%; margin-right: 10%; margin-bottom: 0.5em;"></a>
+    <a href="http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html"><img alt="prime-de" src="/assets/images/PRIME-DE.png" height="150px" style="float: left; width: 50%; margin-left: 1%; margin-right: 1%; margin-bottom: 0.5em;"></a>
+    <a href="https://prime-re.github.io/"><img alt="prime-re" src="/assets/images/prime-re.png" height="150px" style="float: right; width: 50%; margin-left: 1%; margin-right: 1%; margin-bottom: 0.5em;"></a>
 </div>
