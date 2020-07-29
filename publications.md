@@ -9,9 +9,9 @@ author_profile: true
 <p><ul>
   <li>PRIME-DE Consortium* (2020). Accelerating the Evolution of Nonhuman Primate Neuroimaging. <i>Neuron</i> 105(4), 600-603. *Inc. <b>Klink, P.C.</b> <a href="/pdfs/Consortium_2020_Neuron.pdf">pdf</a>
     </li>
-  <li>Milham M.P, Ai, L., Koo, B. (...), <b>Klink, P.C.</b>, (...), Margulies D.S., & Schroeder, C.E. (2018)  An Open Resource for Non-human Primate Imaging, <i>Neuron</i> (2018), https://doi.org/10.1016/ j.neuron.2018.08.039 <a href="/pdfs/Milham_2018_Neuron.pdf">pdf</a>
+  <li>Milham M.P, Ai, L., Koo, B. (...), <b>Klink, P.C.</b>, (...), Margulies D.S., & Schroeder, C.E. (2018)  An Open Resource for Non-human Primate Imaging, <i>Neuron</i> 100(1), 61-74.e2. <a href="/pdfs/Milham_2018_Neuron.pdf">pdf</a>
   </li>
-  <li>Roelfsema, P.R., Denys, D., & <b>Klink, P.C.</b> (2018). Mind reading and writing: The future of neurotechnology. <i>Trends in Cognitive Sciences</i>,  2(7), 598–610. doi:10.1016/j.tics.2018.04.001. <a href="/pdfs/Roelfsema_2018_Trends Cogn Sci.pdf">pdf</a>
+  <li>Roelfsema, P.R., Denys, D., & <b>Klink, P.C.</b> (2018). Mind reading and writing: The future of neurotechnology. <i>Trends in Cognitive Sciences</i>,  2(7), 598–610. <a href="/pdfs/Roelfsema_2018_Trends Cogn Sci.pdf">pdf</a>
   </li>
   <li><b>Klink, P.C.</b>, Boucherie, D., Denys, D., Roelfsema, P.R., & Self M. (2017). Interocularly merged face percepts eliminate binocular rivalry. <i>Scientific Reports</i>, 7(1), 7585. <a href="/pdfs/Klink_2017_Scientific Reports.pdf">pdf</a>
   </li>
