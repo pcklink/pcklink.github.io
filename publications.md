@@ -61,7 +61,7 @@ author_profile: true
   </li>
   <li><b>Klink, P.C.</b> (2008). Some spikes are more informative than others. <i>Journal of Neuroscience</i>, 28(19), 4844-4845. <a href="/pdfs/Klink_2008_The Journal of neuroscience.pdf">pdf</a>
   </li>  
-</ul></p>
+</ul>
 
 
 ## Book chapters
