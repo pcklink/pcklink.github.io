@@ -9,7 +9,7 @@ author_profile: true
 <p><ul>
   <li>Messinger A., Sirmpilatze N., Heuer K., Loh K-K, Mars R.B., Sein J., Xu T., Glen D., Jung B., Seidlitz J., Taylor P., Toro R., Garza-Villarreal E.A., Sponheim C., Wang X., Benn R.A., Cagna B., Dadarwal R., Evrardt H.C., Garcia-Saldivarp P., Giavasis S., Hartig R., Lepage C., Liu C., Majka P., Merchant H., Milham M.P., Rosa M.G.P., Tasserie J., Uhrig L., Margulies D.S., & <b>Klink P.C.</b> (2020). A collaborative resource platform for non-human primate neuroimaging. <a href="https://doi.org/10.1101/2020.07.31.230185"><i>bioRxiv</i></a>
     </li>
-</ul>
+</ul>     
 
 ## Articles
 <ul>
