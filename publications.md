@@ -80,15 +80,19 @@ author_profile: true
 
 ## Selected abstracts
 <ul>
+  <li><b>Klink, P.C.</b>, Chen, X., Vanduffel, W., Denys, D, & Roelfsema, P.R., (2019) Benchmarking population receptive field maps with fMRI and large-scale neurophysiological recordings in awake non-human primates. <i>Society for Neuroscience</i>, Annual Meeting 2016. Chicago.
+  </li>
+  <li><b>Klink, P.C.</b> (2018) Dawn of the bionic brains. <i>CogniTalks</i>, Amsterdam.
+  </li>
   <li><b>Klink, P.C.</b>, (2016) Top-down and bottom-up salience dynamically determine the precision of working memory encoding. <i>Perception Day</i>. Radboud University, Nijmegen.
   </li>
-  <li><b>Klink, P.C.</b>, (2016) Reward and salience determine the precision of working memory encoding with different time-courses. <i>Society for Neuroscience</i>, Annual Meeting 2016.
+  <li><b>Klink, P.C.</b>, (2016) Reward and salience determine the precision of working memory encoding with different time-courses. <i>Society for Neuroscience</i>, Annual Meeting 2016. San Diego.
   </li>
   <li><b>Klink, P.C.</b>, (2016) Top-down priorities and bottom-up salience compete in macaque visual cortex. <i>Amsterdam Vision Meeting</i>.
   </li>
-  <li><b>Klink, P.C.</b>, Lorteije, J.A.M., van Vugt, B., & Roelfsema, P.R. (2015). Priority-related response modulations in macaque visual cortex. <i>FENS Brain Conference 'Bridging Neural Mechanisms & Cognition'</i>.
+  <li><b>Klink, P.C.</b>, Lorteije, J.A.M., van Vugt, B., & Roelfsema, P.R. (2015). Priority-related response modulations in macaque visual cortex. <i>FENS Brain Conference 'Bridging Neural Mechanisms & Cognition'</i>. Copenhagen.
   </li>
-  <li><b>Klink, P.C.</b>, Lorteije, J.A.M., van Vugt, B., & Roelfsema, P.R. (2015). Bottom-up and top-down priorities modulate responses in macaque visual cortex. <i>Society for Neuroscience</i>, Annual Meeting 2015. 
+  <li><b>Klink, P.C.</b>, Lorteije, J.A.M., van Vugt, B., & Roelfsema, P.R. (2015). Bottom-up and top-down priorities modulate responses in macaque visual cortex. <i>Society for Neuroscience</i>, Annual Meeting 2015. Chicago. 
   </li>
   <li>De Graaf, T.A., van Ee, R., Croonenberg, D., <b>Klink, P.C.</b>, & Sack, A.T. (2015) Disrupting binocular rivalry can lead to lasting visual suppression: psychophysics and computational modeling. <i>Human Brain Mapping</i> 2015.
   </li>
