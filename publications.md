@@ -7,6 +7,8 @@ author_profile: true
 
 ## Preprints
 <p><ul>
+    <li><b>Klink P.C.</b>, Aubry J-F., Ferrera V., Fox A.S., Froudist-Walsh S., Jarray B., Konofagou E., Krauzlis R., Messinger A., Mitchell A.S., Ortiz-Rios M., Oya H., Roberts A.C., Roe A.W., Rushworth M.F.S., Sallet J., Schmid M.C., Schroeder C.E., Tasseroe J., Tsao D., Uhrig L., Vanduffel W., Wilke M., Kagan I., & Petkov C.I. (2020). Combined Brain Perturbation and Neuroimaging in Non-human Primates. <a href="https://osf.io/z4x89/"><i>OSF Preprints</i></a>
+    </li>
   <li><b>Klink P.C.</b>, Chen, X., Vanduffel, W., & Roelfsema, P.R. (2020). Direct comparison of population receptive fields from fMRI and large-scale neurophysiological recordings in awake non-human primates. <a href="https://doi.org/10.1101/2020.09.05.284133"><i>bioRxiv</i></a>
     </li>
   <li>Messinger A., Sirmpilatze N., Heuer K., Loh K-K, Mars R.B., Sein J., Xu T., Glen D., Jung B., Seidlitz J., Taylor P., Toro R., Garza-Villarreal E.A., Sponheim C., Wang X., Benn R.A., Cagna B., Dadarwal R., Evrardt H.C., Garcia-Saldivarp P., Giavasis S., Hartig R., Lepage C., Liu C., Majka P., Merchant H., Milham M.P., Rosa M.G.P., Tasserie J., Uhrig L., Margulies D.S., & <b>Klink P.C.</b> (2020). A collaborative resource platform for non-human primate neuroimaging. <a href="https://doi.org/10.1101/2020.07.31.230185"><i>bioRxiv</i></a>
