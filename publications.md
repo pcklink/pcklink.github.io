@@ -17,7 +17,7 @@ author_profile: true
 <ul>
   <li>Messinger, A., Sirmpilatze, N., Heuer, K., Loh, K-K, Mars, R.B., Sein, J., Xu, T., Glen, D., Jung, B., Seidlitz, J., Taylor, P., Toro, R., Garza-Villarreal, E.A., Sponheim, C., Wang, X., Benn, R.A., Cagna, B., Dadarwal, R., Evrard, H.C., Garcia-Saldivar, P., Giavasis, S., Hartig, R., Lepage, C., Liu, C., Majka, P., Merchant, H., Milham, M.P., Rosa, M.G.P., Tasserie, J., Uhrig, L., Margulies, D.S., & <b>Klink, P.C.</b> (2021). A collaborative resource platform for non-human primate neuroimaging. <a href="https://doi.org/10.1016/j.neuroimage.2020.117519"><i>NeuroImage</i></a> <a href="https://doi.org/10.1101/2020.07.31.230185"><i>bioRxiv</i></a>
   </li>
- <li>Fox, A.s., Holley, D., <b>Klink, P.C.</b>, Arbuckle, S.A., Barnes, C.A., Diedrichsen, J., Kwok, S.C., Kyle, C., Pruszynski, J.A., Seidlitz, J., Zhou, X-F, Poldrack, R.A., & Gorgolewski, K.J. (2021). Sharing voxelwise neuroimaging results from rhesus monkeys and other species with Neurovault. <a href="https://doi.org/10.1016/j.neuroimage.2020.117518"><i>NeuroImage</i>, 225</a>
+ <li>Fox, A.s., Holley, D., <b>Klink, P.C.</b>, Arbuckle, S.A., Barnes, C.A., Diedrichsen, J., Kwok, S.C., Kyle, C., Pruszynski, J.A., Seidlitz, J., Zhou, X-F, Poldrack, R.A., & Gorgolewski, K.J. (2021). Sharing voxelwise neuroimaging results from rhesus monkeys and other species with Neurovault. <a href="https://doi.org/10.1016/j.neuroimage.2020.117518"><i>NeuroImage</i></a>, 225
   </li>  
   <li>PRIME-DE Consortium* (2020). Accelerating the Evolution of Nonhuman Primate Neuroimaging. <i>Neuron</i> 105(4), 600-603. *Inc. <b>Klink, P.C.</b> <a href="/pdfs/Consortium_2020_Neuron.pdf">pdf</a>
     </li>
