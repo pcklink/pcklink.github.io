@@ -17,5 +17,5 @@ author_profile: true
 <ul>
   <li><b>PRIME-DE</b> is a platform for the sharing of NHP neuroimaging data. The future is collaborative! Find it <a href="http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html">here</a>.</li>   
   <li><b>RheMAP</b> is a package on non-linear registrations across a set of common rhesus macaque brain templates. Code is available on <a href="https://github.com/PRIME-RE/RheMAP">GitHub</a>, warp-files on <a href="https://zenodo.org/record/3668510#.XlG2oJNKgnc">Zenodo</a>. <a href="https://doi.org/10.5281/zenodo.3668510"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3668510.svg" alt="DOI"></a></li> 
-  <li><b>Neurovault</b> A place where researchers can publicly store and share unthresholded statistical maps, parcellations, and atlases produced by MRI and PET studies. Find the website <a href="https://neurovault.org/">here</a>. It facilitates both human and animal brains and has built-in templates for macaque fMRI results</li> 
+  <li><b>Neurovault</b> is a place where researchers can publicly store and share unthresholded statistical maps, parcellations, and atlases produced by MRI and PET studies. Find the website <a href="https://neurovault.org/">here</a>. It facilitates both human and animal brains and has built-in templates for macaque fMRI results</li> 
 </ul>
