@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprints
 <p><ul>
-    <li>Gau, R., Noble, S., Heuer, K., Bottenhorn, K.L., Bilgin, I.P., Yang, Y-F., Huntenburg, J.M., Bayer, J., Bethlehem, A.I., (...) , <b>The Brainhacck Community</b> (2021). Brainhack:developingacultureofopen,inclusive,community-drivenneuroscience. <a href="https://doi.org/10.31234/osf.io/rytjq"><i>PsyArXiv</i></a>
+    <li>Gau, R., Noble, S., Heuer, K., Bottenhorn, K.L., Bilgin, I.P., Yang, Y-F., Huntenburg, J.M., Bayer, J., Bethlehem, A.I., (...) , <b>The Brainhacck Community</b> (2021). Brainhack: developing a culture of open, inclusive, community-driven neuroscience. <a href="https://doi.org/10.31234/osf.io/rytjq"><i>PsyArXiv</i></a>
     </li>
 <li><b>Klink, P.C.</b>, Aubry, J-F., Ferrera, V., Fox, A.S., Froudist-Walsh, S., Jarraya, B., Konofagou, E., Krauzlis, R., Messinger, A., Mitchell, A.S., Ortiz-        Rios, M., Oya, H., Roberts, A.C., Roe, A.W., Rushworth, M.F.S., Sallet, J., Schmid, M.C., Schroeder, C.E., Tasserie, J., Tsao, D., Uhrig, L., Vanduffel, W., Wilke, M., Kagan, I., & Petkov, C.I. (2020). Combined Brain Perturbation and Neuroimaging in Non-human Primates. <a href="https://osf.io/z4x89/"><i>OSF Preprints</i></a>
     </li>
