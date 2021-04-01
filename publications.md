@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprints
 <p><ul>
-    <li>Gau, R., Noble, S., Heuer, K., Bottenhorn, K.L., Bilgin, I.P., Yang, Y-F., Huntenburg, J.M., Bayer, J., Bethlehem, A.I., (...) , <b>The Brainhack Community</b> (2021). Brainhack: developing a culture of open, inclusive, community-driven neuroscience. <a href="https://doi.org/10.31234/osf.io/rytjq"><i>PsyArXiv</i></a>     
+    <li>Gau, R., Noble, S., Heuer, K., Bottenhorn, K.L., Bilgin, I.P., Yang, Y-F., Huntenburg, J.M., Bayer, J., Bethlehem, A.I., (...) , <b>The Brainhack Community</b> (2021). Brainhack: developing a culture of open, inclusive, community-driven neuroscience. <a href="https://doi.org/10.31234/osf.io/rytjq"><i>PsyArXiv</i></a> [Update] In press at <a href="https://www.cell.com/neuron/home"><i>Neuron</i></a>      
     </li>
   <li><b>Klink, P.C.</b>, Chen, X., Vanduffel, W., & Roelfsema, P.R. (2020). A comparison of population receptive fields from fMRI and large-scale neurophysiological recordings in non-human primates. <a href="https://doi.org/10.1101/2020.09.05.284133"><i>bioRxiv</i></a>
     </li>
