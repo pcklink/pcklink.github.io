@@ -13,7 +13,7 @@ author_profile: true
 
 ## Articles
 <ul>
-  <li>Gau, R., Noble, S., Heuer, K., Bottenhorn, K.L., Bilgin, I.P., Yang, Y-F., Huntenburg, J.M., Bayer, J., Bethlehem, A.I., (...) , <b>The Brainhack Community*</b> (2021). Brainhack: developing a culture of open, inclusive, community-driven neuroscience <i>Neuron</i>, S0896-6273(21)00231-2. *Inc. <b>Klink, P.C.</b>  <a href="https://www.cell.com/action/showPdf?pii=S0896-6273%2821%2900231-2">pdf</a>             
+  <li>Gau, R., Noble, S., Heuer, K., Bottenhorn, K.L., Bilgin, I.P., Yang, Y-F., Huntenburg, J.M., Bayer, J., Bethlehem, A.I., (...) , <b>The Brainhack Community*</b> (2021). Brainhack: developing a culture of open, inclusive, community-driven neuroscience. <i>Neuron</i>, S0896-6273(21)00231-2. *Inc. <b>Klink, P.C.</b>  <a href="https://www.cell.com/action/showPdf?pii=S0896-6273%2821%2900231-2">pdf</a>             
     </li>
   <li><b>Klink, P.C.</b>, Aubry, J-F., Ferrera, V., Fox, A.S., Froudist-Walsh, S., Jarraya, B., Konofagou, E., Krauzlis, R., Messinger, A., Mitchell, A.S., Ortiz-Rios, M., Oya, H., Roberts, A.C., Roe, A.W., Rushworth, M.F.S., Sallet, J., Schmid, M.C., Schroeder, C.E., Tasserie, J., Tsao, D., Uhrig, L., Vanduffel, W., Wilke, M., Kagan, I., & Petkov, C.I. (2021). Combining Brain Perturbation and Neuroimaging in Non-human Primates. <i>NeuroImage</i>, 235, 118017. <a href="https://www.sciencedirect.com/science/article/pii/S1053811921002949/pdfft?md5=591c3f0d188ca9943b097a18fdf42fef&pid=1-s2.0-S1053811921002949-main.pdf">pdf</a>         
     </li>
@@ -23,7 +23,7 @@ author_profile: true
   </li>  
   <li><b>PRIME-DE Consortium*</b> (2020). Accelerating the Evolution of Nonhuman Primate Neuroimaging. <i>Neuron</i>, 105(4), 600-603. *Inc. <b>Klink, P.C.</b> <a href="/pdfs/Consortium_2020_Neuron.pdf">pdf</a>
     </li>
-  <li>Milham M.P, Ai, L., Koo, B. (...), <b>Klink, P.C.</b>, (...), Margulies D.S., & Schroeder, C.E. (2018)  An Open Resource for Non-human Primate Imaging, <i>Neuron</i> 100(1), 61-74.e2. <a href="/pdfs/Milham_2018_Neuron.pdf">pdf</a>
+  <li>Milham M.P, Ai, L., Koo, B. (...), <b>Klink, P.C.</b>, (...), Margulies D.S., & Schroeder, C.E. (2018)  An Open Resource for Non-human Primate Imaging, <i>Neuron</i>, 100(1), 61-74.e2. <a href="/pdfs/Milham_2018_Neuron.pdf">pdf</a>
   </li>
   <li>Roelfsema, P.R., Denys, D., & <b>Klink, P.C.</b> (2018). Mind reading and writing: The future of neurotechnology. <i>Trends in Cognitive Sciences</i>,  2(7), 598–610. <a href="/pdfs/Roelfsema_2018_Trends Cogn Sci.pdf">pdf</a>
   </li>
