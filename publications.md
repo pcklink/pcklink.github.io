@@ -7,21 +7,21 @@ author_profile: true
 
 ## Preprints
 <p><ul>
-    <li>Gau, R., Noble, S., Heuer, K., Bottenhorn, K.L., Bilgin, I.P., Yang, Y-F., Huntenburg, J.M., Bayer, J., Bethlehem, A.I., (...) , <b>The Brainhack Community</b> (2021). Brainhack: developing a culture of open, inclusive, community-driven neuroscience. <a href="https://doi.org/10.31234/osf.io/rytjq"><i>PsyArXiv</i></a>. <b>[Update] In press at <a href="https://www.cell.com/neuron/home"><i>Neuron</i></a></b>      
-    </li>
   <li><b>Klink, P.C.</b>, Chen, X., Vanduffel, W., & Roelfsema, P.R. (2020). A comparison of population receptive fields from fMRI and large-scale neurophysiological recordings in non-human primates. <a href="https://doi.org/10.1101/2020.09.05.284133"><i>bioRxiv</i></a>
     </li>
 </ul></p>    
 
 ## Articles
 <ul>
-  <li><b>Klink, P.C.</b>, Aubry, J-F., Ferrera, V., Fox, A.S., Froudist-Walsh, S., Jarraya, B., Konofagou, E., Krauzlis, R., Messinger, A., Mitchell, A.S., Ortiz-Rios, M., Oya, H., Roberts, A.C., Roe, A.W., Rushworth, M.F.S., Sallet, J., Schmid, M.C., Schroeder, C.E., Tasserie, J., Tsao, D., Uhrig, L., Vanduffel, W., Wilke, M., Kagan, I., & Petkov, C.I. (2021). Combining Brain Perturbation and Neuroimaging in Non-human Primates. <a href="https://www.sciencedirect.com/science/article/pii/S1053811921002949"><i>in press at NeuroImage</i></a> or <a href="https://osf.io/z4x89/"><i>OSF Preprints</i></a> 
+  <li>Gau, R., Noble, S., Heuer, K., Bottenhorn, K.L., Bilgin, I.P., Yang, Y-F., Huntenburg, J.M., Bayer, J., Bethlehem, A.I., (...) , <b>The Brainhack Community</b> (2021). Brainhack: developing a culture of open, inclusive, community-driven neuroscience <a href="https://doi.org/10.1016/j.neuron.2021.04.001"><i>Neuron</i></a></b>, S0896-6273(21)00231-2.            
     </li>
-  <li>Messinger, A., Sirmpilatze, N., Heuer, K., Loh, K-K, Mars, R.B., Sein, J., Xu, T., Glen, D., Jung, B., Seidlitz, J., Taylor, P., Toro, R., Garza-Villarreal, E.A., Sponheim, C., Wang, X., Benn, R.A., Cagna, B., Dadarwal, R., Evrard, H.C., Garcia-Saldivar, P., Giavasis, S., Hartig, R., Lepage, C., Liu, C., Majka, P., Merchant, H., Milham, M.P., Rosa, M.G.P., Tasserie, J., Uhrig, L., Margulies, D.S., & <b>Klink, P.C.</b> (2021). A collaborative resource platform for non-human primate neuroimaging. <a href="https://doi.org/10.1016/j.neuroimage.2020.117519"><i>NeuroImage</i></a> or <a href="https://doi.org/10.1101/2020.07.31.230185"><i>bioRxiv</i></a>
+  <li><b>Klink, P.C.</b>, Aubry, J-F., Ferrera, V., Fox, A.S., Froudist-Walsh, S., Jarraya, B., Konofagou, E., Krauzlis, R., Messinger, A., Mitchell, A.S., Ortiz-Rios, M., Oya, H., Roberts, A.C., Roe, A.W., Rushworth, M.F.S., Sallet, J., Schmid, M.C., Schroeder, C.E., Tasserie, J., Tsao, D., Uhrig, L., Vanduffel, W., Wilke, M., Kagan, I., & Petkov, C.I. (2021). Combining Brain Perturbation and Neuroimaging in Non-human Primates. <a href="https://doi.org/10.1016/j.neuroimage.2021.118017"><i>NeuroImage</i></a>, 235, 118017.         
+    </li>
+  <li>Messinger, A., Sirmpilatze, N., Heuer, K., Loh, K-K, Mars, R.B., Sein, J., Xu, T., Glen, D., Jung, B., Seidlitz, J., Taylor, P., Toro, R., Garza-Villarreal, E.A., Sponheim, C., Wang, X., Benn, R.A., Cagna, B., Dadarwal, R., Evrard, H.C., Garcia-Saldivar, P., Giavasis, S., Hartig, R., Lepage, C., Liu, C., Majka, P., Merchant, H., Milham, M.P., Rosa, M.G.P., Tasserie, J., Uhrig, L., Margulies, D.S., & <b>Klink, P.C.</b> (2021). A collaborative resource platform for non-human primate neuroimaging. <a href="https://doi.org/10.1016/j.neuroimage.2020.117519"><i>NeuroImage</i></a>, 226, 117519.      
   </li>
- <li>Fox, A.s., Holley, D., <b>Klink, P.C.</b>, Arbuckle, S.A., Barnes, C.A., Diedrichsen, J., Kwok, S.C., Kyle, C., Pruszynski, J.A., Seidlitz, J., Zhou, X-F, Poldrack, R.A., & Gorgolewski, K.J. (2021). Sharing voxelwise neuroimaging results from rhesus monkeys and other species with Neurovault. <a href="https://doi.org/10.1016/j.neuroimage.2020.117518"><i>NeuroImage</i></a>, 225
+ <li>Fox, A.s., Holley, D., <b>Klink, P.C.</b>, Arbuckle, S.A., Barnes, C.A., Diedrichsen, J., Kwok, S.C., Kyle, C., Pruszynski, J.A., Seidlitz, J., Zhou, X-F, Poldrack, R.A., & Gorgolewski, K.J. (2021). Sharing voxelwise neuroimaging results from rhesus monkeys and other species with Neurovault. <a href="https://doi.org/10.1016/j.neuroimage.2020.117518"><i>NeuroImage</i></a>, 225, 117518.     
   </li>  
-  <li>PRIME-DE Consortium* (2020). Accelerating the Evolution of Nonhuman Primate Neuroimaging. <i>Neuron</i> 105(4), 600-603. *Inc. <b>Klink, P.C.</b> <a href="/pdfs/Consortium_2020_Neuron.pdf">pdf</a>
+  <li>PRIME-DE Consortium* (2020). Accelerating the Evolution of Nonhuman Primate Neuroimaging. <i>Neuron</i>, 105(4), 600-603. *Inc. <b>Klink, P.C.</b> <a href="/pdfs/Consortium_2020_Neuron.pdf">pdf</a>
     </li>
   <li>Milham M.P, Ai, L., Koo, B. (...), <b>Klink, P.C.</b>, (...), Margulies D.S., & Schroeder, C.E. (2018)  An Open Resource for Non-human Primate Imaging, <i>Neuron</i> 100(1), 61-74.e2. <a href="/pdfs/Milham_2018_Neuron.pdf">pdf</a>
   </li>
