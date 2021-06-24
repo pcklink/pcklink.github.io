@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Neurotechnology     
-<img alt="BrainMorph" src="/assets/images/brainmorph.gif" style="float:left;width:150px;margin-right:10px;marg-bottom:10px">
+<img alt="Neurotech" src="/assets/images/brain-460x307.jpg" style="float:left;width:150px;margin-right:10px;marg-bottom:10px">
 We live in an exciting age of neurotechnological development. Brain-technology interactions yield great potential both for improving our understanding of the neural mechanisms that make us who we are, as well as for creating (therapeutic) interventions that can compensate for neurological and neuropsychiatric defects. Such innovations also come with novel ethcal considerations that should not be ignored. We wrote about these developments in [this recent paper](https://pcklink.github.io/pdfs/Roelfsema_2018_Trends%20Cogn%20Sci.pdf). I am also involved in the international [INTENSE](https://intenseproject.eu/) consortium that ambitiously aims to develop brain implants to improve the lives of people who are blind, deaf or paralyzed, or who have epilepsy.
 
 ## Translational neuroimaging & brain stimulation     
