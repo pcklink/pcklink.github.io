@@ -5,6 +5,10 @@ layout: single
 author_profile: true
 ---
 
+## Neurotechnology     
+<img alt="BrainMorph" src="/assets/images/brainmorph.gif" style="float:left;width:150px;margin-right:10px;marg-bottom:10px">
+We live in an exciting age of neurotechnological development. Brain-technology interactions yield great potential both for improving our understanding of the neural mechanisms that make us who we are, as well as for creating (therapeutic) interventions that can compensate for neurological and neuropsychiatric defects. Such innovations also come with novel ethcal considerations that should not be ignored. We wrote about these developments in [this recent paper](https://pcklink.github.io/pdfs/Roelfsema_2018_Trends%20Cogn%20Sci.pdf). I am also involved in the international [INTENSE](https://intenseproject.eu/) consortium that ambitiously aims to develop brain implants to improve the lives of people who are blind, deaf or paralyzed, or who have epilepsy.
+
 ## Translational neuroimaging & brain stimulation     
 <img alt="BrainMorph" src="/assets/images/brainmorph.gif" style="float:left;width:150px;margin-right:10px;marg-bottom:10px">
 In recent years, I have established the Translational Neuroimaging lab within the Vision & Cognition group (Prof. Roelfsema) 
@@ -17,7 +21,7 @@ It is used at the Amsterdam UMC and several other centers around the world to tr
 In Deep Brain Stimulation, a stimulation electrode is chronically implanted in the patient’s brain. Batteries that are implanted send 
 electrical pulses into the brain that interfere with neural signaling. Whereas, the results of these treatments can be remarkable, the 
 precise local and global effects of stimulation are relatively unknown. This research was launched with support of a VENI-grant from 
-the Netherlands Organization for Scientific Research
+the Netherlands Organization for Scientific Research. 
 
 ## Visual perception & awareness    
 <img alt="Impossible figure" src="/assets/images/CubeVector.png" style="float:left;width:150px;margin-right:10px;marg-bottom:10px">The vast amount of visual information that surrounds us every day is an important determinant of our behavior and emotions. Due to the surplus of visual information our brain needs to select information and use standard ‘tricks’ to interpret a retinal pattern fast and accurate. Seeing is therefore much more a matter of brains than of eyes. But how does our visual system pick up the relevant aspects of the visual world and what happens in our brain before we become aware of the things we see? One of my longtime research interests deals with these questions using a range of methodological approaches and stimuli.
