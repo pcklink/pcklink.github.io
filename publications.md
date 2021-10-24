@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprints
 <p><ul>
-  <li><b>Klink, P.C.</b>, Chen, X., Vanduffel, W., & Roelfsema, P.R. (2020). A comparison of population receptive fields from fMRI and large-scale neurophysiological recordings in non-human primates. <a href="https://doi.org/10.1101/2020.09.05.284133"><i>bioRxiv</i></a>
+  <li><b>Klink, P.C.</b>, Chen, X., Vanduffel, W., & Roelfsema, P.R. (Accepted @ eLife). Population receptive fields in non-human primates from whole-brain fMRI and large-scale neurophysiology in visual cortex. <a href="https://doi.org/10.1101/2020.09.05.284133"><i>bioRxiv</i></a>
     </li>
 </ul></p>    
 
