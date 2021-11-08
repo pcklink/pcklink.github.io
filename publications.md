@@ -5,14 +5,12 @@ layout: single
 author_profile: true
 ---
 
-## Preprints
-<p><ul>
-  <li><b>Klink, P.C.</b>, Chen, X., Vanduffel, W., & Roelfsema, P.R. (Accepted @ eLife). Population receptive fields in non-human primates from whole-brain fMRI and large-scale neurophysiology in visual cortex. <a href="https://doi.org/10.1101/2020.09.05.284133"><i>bioRxiv</i></a>
-    </li>
-</ul></p>    
-
 ## Articles
 <ul>
+  <li><b>PRIME-DRE Consortium* (2021). Toward next-generation primate neuroscience: A collaboration-based strategic plan for integrative neuroimaging <a href="https://doi.org/10.1016/j.neuron.2021.10.015"><i>Neuron</i></a>
+    </li>  
+  <li>Gau, R., Noble, S., Heuer, K., Bottenhorn, K.L., Bilgin, I.P., Yang, Y-F., Huntenburg, J.M., Bayer, J., Bethlehem, A.I., (...) , <b>The Brainhack Community*</b> (2021). Brainhack: developing a culture of open, inclusive, community-driven neuroscience. <i>Neuron</i>, S0896-6273(21)00231-2. *Inc. <b>Klink, P.C.</b>  <a href="https://www.cell.com/action/showPdf?pii=S0896-6273%2821%2900231-2">pdf</a>             
+    </li>
   <li>Gau, R., Noble, S., Heuer, K., Bottenhorn, K.L., Bilgin, I.P., Yang, Y-F., Huntenburg, J.M., Bayer, J., Bethlehem, A.I., (...) , <b>The Brainhack Community*</b> (2021). Brainhack: developing a culture of open, inclusive, community-driven neuroscience. <i>Neuron</i>, S0896-6273(21)00231-2. *Inc. <b>Klink, P.C.</b>  <a href="https://www.cell.com/action/showPdf?pii=S0896-6273%2821%2900231-2">pdf</a>             
     </li>
   <li><b>Klink, P.C.</b>, Aubry, J-F., Ferrera, V., Fox, A.S., Froudist-Walsh, S., Jarraya, B., Konofagou, E., Krauzlis, R., Messinger, A., Mitchell, A.S., Ortiz-Rios, M., Oya, H., Roberts, A.C., Roe, A.W., Rushworth, M.F.S., Sallet, J., Schmid, M.C., Schroeder, C.E., Tasserie, J., Tsao, D., Uhrig, L., Vanduffel, W., Wilke, M., Kagan, I., & Petkov, C.I. (2021). Combining Brain Perturbation and Neuroimaging in Non-human Primates. <i>NeuroImage</i>, 235, 118017. <a href="https://www.sciencedirect.com/science/article/pii/S1053811921002949/pdfft?md5=591c3f0d188ca9943b097a18fdf42fef&pid=1-s2.0-S1053811921002949-main.pdf">pdf</a>         
