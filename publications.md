@@ -11,7 +11,7 @@ author_profile: true
     </li>  
   <li><b>Klink, P.C.</b>, Chen, X., Vanduffel, W., & Roelfsema, P.R. (2021). Population receptive fields in non-human primates from whole-brain fMRI and large-scale neurophysiology in visual cortex. <i>eLife</i>, 10:e67304. <a href="https://doi.org/10.7554/eLife.67304">pdf</a>            
     </li>
-  <ul><li>Highlighted in: Ip, B, & Bridge, H. (2021). Magnetic Resonance: Mapping the visual world to the human brain. <i>eLife</i>, 10:e75171. <a href="https://doi.org/10.7554/eLife.75171">pdf</a>            
+  <ul><li>Highlighted in: Ip, B., & Bridge, H. (2021). Magnetic Resonance: Mapping the visual world to the human brain. <i>eLife</i>, 10:e75171. <a href="https://doi.org/10.7554/eLife.75171">pdf</a>            
     </li></ul>
   <li>Gau, R., Noble, S., Heuer, K., Bottenhorn, K.L., Bilgin, I.P., Yang, Y-F., Huntenburg, J.M., Bayer, J., Bethlehem, A.I., (...) , <b>The Brainhack Community*</b> (2021). Brainhack: developing a culture of open, inclusive, community-driven neuroscience. <i>Neuron</i>, S0896-6273(21)00231-2. *Inc. <b>Klink, P.C.</b>  <a href="https://www.cell.com/action/showPdf?pii=S0896-6273%2821%2900231-2">pdf</a>             
     </li>
