@@ -10,7 +10,7 @@ author_profile: true
  A short resume can be found <a href="/cv/Klink_Resume.pdf">here</a>
 </small>
 
-## Contact
+## Contact research
 Vision & Cognition / Neuromodulation & Behaviour     
 Netherlands Institute for Neuroscience       
 Royal Netherlands Academy of Arts and Sciences
@@ -19,8 +19,17 @@ Meibergdreef 47
 1105 BA Amsterdam, the Netherlands       
 email: c.klink [at] nin.knaw.nl       
 
+## Contact teaching
+Dept. Experimental Psychology    
+Faculty of Social Sciences
+Utrecht University    
 
-## Research interests
+Martinus J. Langeveldgebouw
+Heidelberglaan 1
+3584 CS Utrecht, the Netherlands      
+email: p.c.klink [at] uu.nl    
+
+## Research interests    
 I am (systems) neuroscientist with an interest in the neural mechanisms of perception and cognition. 
 How does the brain process information and what mechanisms give rise to flexible, goal-directed behavior? 
 How can we get a grip on these processes and improve life? I have worked on a range of topics including visual perception, 
@@ -29,6 +38,9 @@ coding problems using behavioral, computational, neurophysiological and neuroima
 
 Currently, I am working on a project in which we combine (deep) brain stimulation, functional neuroimaging and electrophysiological 
 recordings in non-human primates to investigate the dynamic neural networks underlying vision, reward-processing and executive functions. 
+
+## Teaching    
+I am a lecturer in [Experimental Psychology](https://www.uu.nl/en/organisation/experimental-psychology) at Utrecht University.
 
 ## Training
 <ul>
