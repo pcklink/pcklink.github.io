@@ -24,10 +24,10 @@ Dept. Experimental Psychology
 Faculty of Social Sciences
 Utrecht University    
 
-Martinus J. Langeveldgebouw
-Heidelberglaan 1
-3584 CS Utrecht, the Netherlands      
-email: p.c.klink [at] uu.nl    
+Martinus J. Langeveldgebouw         
+Heidelberglaan 1       
+3584 CS Utrecht, the Netherlands               
+email: p.c.klink [at] uu.nl        
 
 ## Research interests    
 I am (systems) neuroscientist with an interest in the neural mechanisms of perception and cognition. 
