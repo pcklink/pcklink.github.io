@@ -20,8 +20,9 @@ Meibergdreef 47
 email: c.klink [at] nin.knaw.nl       
 
 ## Contact teaching
-Dept. Experimental Psychology    
-Faculty of Social Sciences
+Dept. of Experimental Psychology    
+Helmholtz Institute     
+Faculty of Social Sciences      
 Utrecht University    
 
 Martinus J. Langeveldgebouw         
