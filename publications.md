@@ -7,7 +7,7 @@ author_profile: true
 
 ## Articles
 <ul>
-  <li><b>PRIME-DRE Consortium* </b>(2021). Toward next-generation primate neuroscience: A collaboration-based strategic plan for integrative neuroimaging <a href="https://doi.org/10.1016/j.neuron.2021.10.015"><i>Neuron</i></a> *Inc. <b>Klink, P.C.</b> 
+  <li><b>PRIME-DRE Consortium* </b>(2022). Toward next-generation primate neuroscience: A collaboration-based strategic plan for integrative neuroimaging <a href="https://doi.org/10.1016/j.neuron.2021.10.015"><i>Neuron</i></a> *Inc. <b>Klink, P.C.</b> 
     </li>  
   <li><b>Klink, P.C.</b>, Chen, X., Vanduffel, W., & Roelfsema, P.R. (2021). Population receptive fields in non-human primates from whole-brain fMRI and large-scale neurophysiology in visual cortex. <i>eLife</i>, 10:e67304. <a href="https://doi.org/10.7554/eLife.67304">pdf</a>            
     </li>
