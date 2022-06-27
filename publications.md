@@ -7,13 +7,13 @@ author_profile: true
 
 ## Preprints
 <ul>
-  <li><b>Klink, P.C.*</b>, Teeuwen, R.R.*, Lorteije, J.A.M., & Roelfsema, P.R.R. (2022). Pop-in: the inversion of pop-out for a feature dimension during visual search in area V4 of the monkey cortex <a href="https://doi.org/10.1101/2022.06.23.497353"><i>bioRxiv</i></a> (*Contributed equally). 
+  <li><b>Klink, P.C.*</b>, Teeuwen, R.R.*, Lorteije, J.A.M., & Roelfsema, P.R.R. (2022). Pop-in: the inversion of pop-out for a feature dimension during visual search in area V4 of the monkey cortex. <a href="https://doi.org/10.1101/2022.06.23.497353"><i>bioRxiv</i></a> (*Contributed equally). 
     </li>  
 </ul>
 
 ## Articles
 <ul>
-  <li><b>PRIME-DRE Consortium* </b>(2022). Toward next-generation primate neuroscience: A collaboration-based strategic plan for integrative neuroimaging <a href="https://doi.org/10.1016/j.neuron.2021.10.015"><i>Neuron</i></a> *Inc. <b>Klink, P.C.</b> 
+  <li><b>PRIME-DRE Consortium* </b>(2022). Toward next-generation primate neuroscience: A collaboration-based strategic plan for integrative neuroimaging. <a href="https://doi.org/10.1016/j.neuron.2021.10.015"><i>Neuron</i></a> *Inc. <b>Klink, P.C.</b> 
     </li>  
   <li><b>Klink, P.C.</b>, Chen, X., Vanduffel, W., & Roelfsema, P.R. (2021). Population receptive fields in non-human primates from whole-brain fMRI and large-scale neurophysiology in visual cortex. <i>eLife</i>, 10:e67304. <a href="https://doi.org/10.7554/eLife.67304">pdf</a>            
     </li>
