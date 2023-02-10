@@ -15,7 +15,7 @@ author_profile: true
 <ul>
     <li><b>Klink, P.C.*</b>, Teeuwen, R.R.*, Lorteije, J.A.M., & Roelfsema, P.R.R. (In Press). Inversion of pop-out for a distracting feature dimension in monkey visual cortex. <a href="https://www.pnas.org/"><i>PNAS</i></a> (*Contributed equally). 
     </li>  
-  <li>Hartig, R., <b>Klink, P.C.</b>, Polyakova, Z., Dehaqani, M-R.A., Bondar, I., Merchant, H., Vanduffel, W., Roe, W.W., Nambu, A., M, T., Shmuel, A., Kapoor, V., Gothard, K.M., Evrard, H.C., Basso, M.A., Petkov, C., & Mitchell, A.S. (In Press). A framework and resource for global collaboration in non-human primate neuroscience. <a href="https://www.pnas.org/"><i>Current Research in Neurobiology</i></a>. 
+  <li>Hartig, R., <b>Klink, P.C.</b>, Polyakova, Z., Dehaqani, M-R.A., Bondar, I., Merchant, H., Vanduffel, W., Roe, W.W., Nambu, A., M, T., Shmuel, A., Kapoor, V., Gothard, K.M., Evrard, H.C., Basso, M.A., Petkov, C., & Mitchell, A.S. (In Press). A framework and resource for global collaboration in non-human primate neuroscience. <a href="https://www.sciencedirect.com/journal/current-research-in-neurobiology"><i>Current Research in Neurobiology</i></a>. 
     </li>  
   <li><b>PRIME-DRE Consortium* </b>(2022). Toward next-generation primate neuroscience: A collaboration-based strategic plan for integrative neuroimaging. <a href="https://doi.org/10.1016/j.neuron.2021.10.015"><i>Neuron</i></a> *Inc. <b>Klink, P.C.</b> 
     </li>  
