@@ -4,18 +4,18 @@ title: "Publications"
 layout: single
 author_profile: true
 ---
-
+<!-- 
 ## Preprints
 <ul>
   <li><b>Klink, P.C.*</b>, Teeuwen, R.R.*, Lorteije, J.A.M., & Roelfsema, P.R.R. (2022). Pop-in: the inversion of pop-out for a feature dimension during visual search in area V4 of the monkey cortex. <a href="https://doi.org/10.1101/2022.06.23.497353"><i>bioRxiv</i></a> (*Contributed equally). 
     </li>  
-</ul>
+</ul> -->
 
 ## Articles
 <ul>
-    <li><b>Klink, P.C.*</b>, Teeuwen, R.R.*, Lorteije, J.A.M., & Roelfsema, P.R.R. (In Press). Inversion of pop-out for a distracting feature dimension in monkey visual cortex. <a href="https://www.pnas.org/"><i>PNAS</i></a> (*Contributed equally). 
+    <li><b>Klink, P.C.*</b>, Teeuwen, R.R.*, Lorteije, J.A.M., & Roelfsema, P.R.R. (2023). Inversion of pop-out for a distracting feature dimension in monkey visual cortex. <i>PNAS</i>, 120:9,  e2210839120 <a href="https://doi.org/10.1073/pnas.2210839120"><i>doi</i></a> <a href="/pdfs/Klink_2023_PNAS_authorversion.pdf">author-pdf</a>(*Contributed equally). 
     </li>  
-  <li>Hartig, R., <b>Klink, P.C.</b>, Polyakova, Z., Dehaqani, M-R.A., Bondar, I., Merchant, H., Vanduffel, W., Roe, W.W., Nambu, A., M, T., Shmuel, A., Kapoor, V., Gothard, K.M., Evrard, H.C., Basso, M.A., Petkov, C., & Mitchell, A.S. (In Press). A framework and resource for global collaboration in non-human primate neuroscience. <a href="https://www.sciencedirect.com/journal/current-research-in-neurobiology"><i>Current Research in Neurobiology</i></a>. 
+  <li>Hartig, R., <b>Klink, P.C.</b>, Polyakova, Z., Dehaqani, M-R.A., Bondar, I., Merchant, H., Vanduffel, W., Roe, W.W., Nambu, A., M, T., Shmuel, A., Kapoor, V., Gothard, K.M., Evrard, H.C., Basso, M.A., Petkov, C., & Mitchell, A.S. (2023). A framework and resource for global collaboration in non-human primate neuroscience. <a href="https://doi.org/10.1016/j.crneur.2023.100079"><i>Current Research in Neurobiology</i></a> . 
     </li>  
   <li><b>PRIME-DRE Consortium* </b>(2022). Toward next-generation primate neuroscience: A collaboration-based strategic plan for integrative neuroimaging. <a href="https://doi.org/10.1016/j.neuron.2021.10.015"><i>Neuron</i></a> *Inc. <b>Klink, P.C.</b> 
     </li>  
