@@ -13,7 +13,9 @@ author_profile: true
 
 ## Articles
 <ul>
-    <li><b>Klink, P.C.*</b>, Teeuwen, R.R.*, Lorteije, J.A.M., & Roelfsema, P.R.R. (2023). Inversion of pop-out for a distracting feature dimension in monkey visual cortex. <i>PNAS</i>, 120:9,  e2210839120 <a href="https://doi.org/10.1073/pnas.2210839120"><i>doi</i></a> <a href="/pdfs/Klink_2023_PNAS_authorversion.pdf">author-pdf</a>(*Contributed equally). 
+    <li>Chen, X.*, Wang, F.*, Kooijmans, R.*, <b>Klink, P.C.*</b>, Boehler, B., Asplund, M., & Roelfsema, P.R.R. (2023). Chronic stability of a neuroprosthesis comprising multiple adjacent Utah arrays in monkeys. <i>Journal of Neural Engineering.</i> (*Contributed equally). 
+    </li>  
+  <li><b>Klink, P.C.*</b>, Teeuwen, R.R.*, Lorteije, J.A.M., & Roelfsema, P.R.R. (2023). Inversion of pop-out for a distracting feature dimension in monkey visual cortex. <i>PNAS</i>, 120:9,  e2210839120 <a href="https://doi.org/10.1073/pnas.2210839120"><i>doi</i></a> <a href="/pdfs/Klink_2023_PNAS_authorversion.pdf">author-pdf</a>(*Contributed equally). 
     </li>  
   <li>Hartig, R., <b>Klink, P.C.</b>, Polyakova, Z., Dehaqani, M-R.A., Bondar, I., Merchant, H., Vanduffel, W., Roe, W.W., Nambu, A., M, T., Shmuel, A., Kapoor, V., Gothard, K.M., Evrard, H.C., Basso, M.A., Petkov, C., & Mitchell, A.S. (2023). A framework and resource for global collaboration in non-human primate neuroscience. <a href="https://doi.org/10.1016/j.crneur.2023.100079"><i>Current Research in Neurobiology</i></a> . 
     </li>  
