@@ -13,7 +13,7 @@ author_profile: true
 
 ## Articles
 <ul>
-    <li>Chen, X.*, Wang, F.*, Kooijmans, R.*, <b>Klink, P.C.*</b>, Boehler, B., Asplund, M., & Roelfsema, P.R.R. (2023). Chronic stability of a neuroprosthesis comprising multiple adjacent Utah arrays in monkeys. <i>Journal of Neural Engineering.</i> (*Contributed equally). 
+    <li>Chen, X.*, Wang, F.*, Kooijmans, R.*, <b>Klink, P.C.</b>, Boehler, B., Asplund, M., & Roelfsema, P.R.R. (2023). Chronic stability of a neuroprosthesis comprising multiple adjacent Utah arrays in monkeys. <i>Journal of Neural Engineering.</i> (*Contributed equally). 
     </li>  
   <li><b>Klink, P.C.*</b>, Teeuwen, R.R.*, Lorteije, J.A.M., & Roelfsema, P.R.R. (2023). Inversion of pop-out for a distracting feature dimension in monkey visual cortex. <i>PNAS</i>, 120:9,  e2210839120 <a href="https://doi.org/10.1073/pnas.2210839120"><i>doi</i></a> <a href="/pdfs/Klink_2023_PNAS_authorversion.pdf">author-pdf</a>(*Contributed equally). 
     </li>  
