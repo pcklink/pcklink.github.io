@@ -13,6 +13,8 @@ author_profile: true
 
 ## Articles
 <ul>
+    <li>Storm, J.F, <b>Klink, P.C.</b>, Aru, J., Senn, W., Goebel, R., Pigorini, A., Avanzini, P., Vanduffel, W., Roelfsema, P.R., Massimini, M., Larkum, M.E., & Pennartz, C.M.A. (2023). An integrative, multiscale view on neural theories of consciousness <a href="https://doi.org/10.1016/j.neuron.2024.02.004"><i>Neuron.</i></a> <a href="[https://iopscience.iop.org/article/10.1088/1741-2552/ace07e/pdf](https://www.sciencedirect.com/science/article/pii/S0896627324000886/pdfft?md5=e6d0015f7845f4c86614efef76aade2d&pid=1-s2.0-S0896627324000886-main.pdf)">pdf</a> (*Contributed equally). 
+    </li> 
     <li>Chen, X.*, Wang, F.*, Kooijmans, R.*, <b>Klink, P.C.</b>, Boehler, B., Asplund, M., & Roelfsema, P.R.R. (2023). Chronic stability of a neuroprosthesis comprising multiple adjacent Utah arrays in monkeys. <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ace07e"><i>Journal of Neural Engineering.</i></a> <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ace07e/pdf">pdf</a> (*Contributed equally). 
     </li>  
   <li><b>Klink, P.C.*</b>, Teeuwen, R.R.*, Lorteije, J.A.M., & Roelfsema, P.R.R. (2023). Inversion of pop-out for a distracting feature dimension in monkey visual cortex. <i>PNAS</i>, 120:9,  e2210839120 <a href="https://doi.org/10.1073/pnas.2210839120"><i>doi</i></a> <a href="/pdfs/Klink_2023_PNAS_authorversion.pdf">author-pdf</a>(*Contributed equally). 
