@@ -5,12 +5,13 @@ layout: single
 author_profile: true
 ---
 <!-- 
-</ul> -->
+ -->
 
 ## Preprints
 <ul>
   <li>Alldritt, S., Ramirez, J.S.B., Vos de Wael, R., (...), <b>Klink, P.C.</b>, (...), Margulies, D., Fair, D., Schroeder, C., Milham M., Xu T. (2024). Brain Charts for the Rhesus Macaque Lifespan. <a href="https://www.biorxiv.org/content/10.1101/2024.08.28.610193v1"><i>bioRxiv</i></a>. 
-    </li>  
+    </li>      
+</ul>
 
 ## Articles
 <ul>
