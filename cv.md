@@ -17,18 +17,7 @@ Royal Netherlands Academy of Arts and Sciences
 
 Meibergdreef 47      
 1105 BA Amsterdam, the Netherlands       
-email: c.klink [at] nin.knaw.nl       
-
-## Contact teaching
-Dept. of Experimental Psychology    
-Helmholtz Institute     
-Faculty of Social Sciences      
-Utrecht University    
-
-Martinus J. Langeveldgebouw         
-Heidelberglaan 1       
-3584 CS Utrecht, the Netherlands               
-email: p.c.klink [at] uu.nl        
+email: c.klink [at] nin.knaw.nl            
 
 ## Research interests    
 I am (systems) neuroscientist with an interest in the neural mechanisms of perception and cognition. 
@@ -36,12 +25,6 @@ How does the brain process information and what mechanisms give rise to flexible
 How can we get a grip on these processes and improve life? I have worked on a range of topics including visual perception, 
 attention, multimodal integration, neural plasticity, decision-making, working memory, reward processing and basic neural 
 coding problems using behavioral, computational, neurophysiological and neuroimaging methods in non-human primates, humans, & rodents. 
-
-Currently, I am working on a project in which we combine (deep) brain stimulation, functional neuroimaging and electrophysiological 
-recordings in non-human primates to investigate the dynamic neural networks underlying vision, reward-processing and executive functions. 
-
-## Teaching    
-I am a lecturer in [Experimental Psychology](https://www.uu.nl/en/organisation/experimental-psychology) at Utrecht University.
 
 ## Training
 <ul>
