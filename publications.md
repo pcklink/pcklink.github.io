@@ -5,15 +5,20 @@ layout: single
 author_profile: true
 ---
 <!-- 
+</ul> -->
+
 ## Preprints
 <ul>
-  <li><b>Klink, P.C.*</b>, Teeuwen, R.R.*, Lorteije, J.A.M., & Roelfsema, P.R.R. (2022). Pop-in: the inversion of pop-out for a feature dimension during visual search in area V4 of the monkey cortex. <a href="https://doi.org/10.1101/2022.06.23.497353"><i>bioRxiv</i></a> (*Contributed equally). 
+  <li>Alldritt, S., Ramirez, J.S.B., Vos de Wael, R., (...), <b>Klink, P.C.</b>, (...), Margulies, D., Fair, D., Schroeder, C., Milham M., Xu T. (2024). Brain Charts for the Rhesus Macaque Lifespan. <a href="https://www.biorxiv.org/content/10.1101/2024.08.28.610193v1"><i>bioRxiv</i></a>. 
     </li>  
-</ul> -->
 
 ## Articles
 <ul>
-    <li>Storm, J.F, <b>Klink, P.C.</b>, Aru, J., Senn, W., Goebel, R., Pigorini, A., Avanzini, P., Vanduffel, W., Roelfsema, P.R., Massimini, M., Larkum, M.E., & Pennartz, C.M.A. (2023). An integrative, multiscale view on neural theories of consciousness <a href="https://doi.org/10.1016/j.neuron.2024.02.004"><i>Neuron.</i></a> <a href="https://www.sciencedirect.com/science/article/pii/S0896627324000886/pdfft?md5=e6d0015f7845f4c86614efef76aade2d&pid=1-s2.0-S0896627324000886-main.pdf">pdf</a>. 
+    <li>van Hoof, R.*, Lozano, A.M.*, Wang, F.*, <b>Klink, P.C.</b>, Roelfsema, P.R.R., & Goebel, R. (2025). Optimal placement of high-channel visual prostheses in human retinotopic visual cortex <a href="https://iopscience.iop.org/article/10.1088/1741-2552/adaeef/meta"><i>Journal of Neural Engineering.</i></a> <a href="https://iopscience.iop.org/article/10.1088/1741-2552/adaeef/pdf">pdf</a>. 
+    </li> 
+    <li>Westerberg, J.A., Daemen, C., Feenstra, E., Gulbinaite, R., Ioumpa, K., <b>Klink, P.C.</b>, & Abdirashid, S.S. (2025). Close Encounters with Art of Neuroscience 14th Edition <a href="https://www.jneurosci.org/content/45/9/e2323242025.abstract"><i>Journal of Neuroscience.</i></a>. 
+    </li> 
+    <li>Storm, J.F, <b>Klink, P.C.</b>, Aru, J., Senn, W., Goebel, R., Pigorini, A., Avanzini, P., Vanduffel, W., Roelfsema, P.R., Massimini, M., Larkum, M.E., & Pennartz, C.M.A. (2024). An integrative, multiscale view on neural theories of consciousness <a href="https://doi.org/10.1016/j.neuron.2024.02.004"><i>Neuron.</i></a> <a href="https://www.sciencedirect.com/science/article/pii/S0896627324000886/pdfft?md5=e6d0015f7845f4c86614efef76aade2d&pid=1-s2.0-S0896627324000886-main.pdf">pdf</a>. 
     </li> 
     <li>Chen, X.*, Wang, F.*, Kooijmans, R.*, <b>Klink, P.C.</b>, Boehler, B., Asplund, M., & Roelfsema, P.R.R. (2023). Chronic stability of a neuroprosthesis comprising multiple adjacent Utah arrays in monkeys. <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ace07e"><i>Journal of Neural Engineering.</i></a> <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ace07e/pdf">pdf</a> (*Contributed equally). 
     </li>  
