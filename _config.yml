@@ -141,17 +141,12 @@ author:
     - label: "Photos"
       icon: "fab fa-fw fa-flickr"
       url: "https://www.flickr.com/photos/chrisklink/albums/"
-    - label: ""
-      icon: "https://pcklink.github.io/assets/images/PRIME-DRE.png"
-      url: "https://prime-dre.github.io/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
 
 # Sidebar
 sidebar:
-  - image: "/assets/images/NIN.png" # http://placehold.it/350x250
-    image_alt: "NIN"
+  - text: [![PRIME-DRE](https://pcklink.github.io/assets/images/PRIME-DRE.png)]("https://prime-dre.github.io/)
+  #-image: "/assets/images/NIN.png" # http://placehold.it/350x250
+  #  image_alt: "NIN"
   #- image: "/assets/images/SC.jpg" # http://placehold.it/350x250
   #  image_alt: "SC"
   #- image: "/assets/images/PRIME-DE.png" # http://placehold.it/350x250
