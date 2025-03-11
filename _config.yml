@@ -111,7 +111,7 @@ author:
   avatar           : "/assets/images/bio-photo2.jpg" # "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   # bio              : "Neuroscientist studying the neural mechanisms of perception and cognition."
   bio              : "================" #"Neth. Inst. for Neuroscience"
-  location         : "Amsterdam, NL"
+  # location         : "Amsterdam, NL"
   email            : "c.klink@nin.knaw.nl"
   links:
     - label: " Scholar"
@@ -308,7 +308,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      sidebar: true
       read_time: true
       comments: # true
       share: true
