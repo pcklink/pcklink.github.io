@@ -144,8 +144,8 @@ author:
 
 # Sidebar
 sidebar:   
-  - text: |
-    [![PRIME-DRE](https://pcklink.github.io/assets/images/PRIME-DRE.png)](https://prime-dre.github.io/)
+  - text: |     
+      [![PRIMEDRE](https://pcklink.github.io/assets/images/PRIME-DRE.png)](https://prime-dre.github.io/)
 
   #-image: "/assets/images/NIN.png" # http://placehold.it/350x250
   #  image_alt: "NIN"
