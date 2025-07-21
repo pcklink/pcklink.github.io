@@ -9,13 +9,17 @@ author_profile: true
 
 ## Preprints
 <ul>
-  <li>Alldritt, S., Ramirez, J.S.B., Vos de Wael, R., (...), <b>Klink, P.C.</b>, (...), Margulies, D., Fair, D., Schroeder, C., Milham M., Xu T. (2024). Brain Charts for the Rhesus Macaque Lifespan. <a href="https://www.biorxiv.org/content/10.1101/2024.08.28.610193v1"><i>bioRxiv</i></a>. 
-    </li>      
+  <li>Petkov, C., Fairhurst, V., Granados, M., Chudasama, Y., Rodney, G., Jabeen, S., David, S., Mitchell, A.S., <b>Klink, P.C.</b>, Mehmani, B., & Saderi, D. (2025). Integrating Community Live Reviews into Academic Publishing: Five Case Studies. <a href="https://doi.org/10.31219/osf.io/fteu8_v1"><i>OSF</i></a>. 
+    </li>    
+ <li>Alldritt, S., Ramirez, J.S.B., Vos de Wael, R., (...), <b>Klink, P.C.</b>, (...), Margulies, D., Fair, D., Schroeder, C., Milham M., Xu T. (2024). Brain Charts for the Rhesus Macaque Lifespan. <a href="https://www.biorxiv.org/content/10.1101/2024.08.28.610193v1"><i>bioRxiv</i></a>. 
+    </li>  
 </ul>
 
 ## Articles
 <ul>
-    <li>van Hoof, R.*, Lozano, A.M.*, Wang, F.*, <b>Klink, P.C.</b>, Roelfsema, P.R.R., & Goebel, R. (2025). Optimal placement of high-channel visual prostheses in human retinotopic visual cortex <a href="https://iopscience.iop.org/article/10.1088/1741-2552/adaeef/meta"><i>Journal of Neural Engineering.</i></a> <a href="/pdfs/vanHoof_2025_JNeuralEng.pdf">pdf</a>. 
+   <li>Nazmuddin, M., Stammes, M.A., <b>Klink, P.C.</b>, Vernes, M.K., Bakker, J., Langermans, J.A.M., Van Laar, T., & Philippens, I.H.C.H.M. (2025). Stereotactic lesioning of cholinergic cells by injection of ME20.4 Saporin in the nucleus basalis of Meynert in a rhesus monkey (Macaca mulatta). Journal of Neuropathology & Experimental Neurology. <a href="https://academic.oup.com/jnen/advance-article/doi/10.1093/jnen/nlaf081/8205547"><i>Journal of Neuropathology & Experimental Neurology.</i></a> <a href="/pdfs/Nazmuddin_2025_JNEN.pdf">pdf</a>. 
+    </li> 
+   <li>van Hoof, R.*, Lozano, A.M.*, Wang, F.*, <b>Klink, P.C.</b>, Roelfsema, P.R.R., & Goebel, R. (2025). Optimal placement of high-channel visual prostheses in human retinotopic visual cortex <a href="https://iopscience.iop.org/article/10.1088/1741-2552/adaeef/meta"><i>Journal of Neural Engineering.</i></a> <a href="/pdfs/vanHoof_2025_JNeuralEng.pdf">pdf</a>. 
     </li> 
     <li>Westerberg, J.A., Daemen, C., Feenstra, E., Gulbinaite, R., Ioumpa, K., <b>Klink, P.C.</b>, & Abdirashid, S.S. (2025). Close Encounters with Art of Neuroscience 14th Edition <a href="https://www.jneurosci.org/content/45/9/e2323242025.abstract"><i>Journal of Neuroscience.</i></a> <a href="/pdfs/Aon_2024_jneurosci.pdf">pdf</a>.  
     </li> 
